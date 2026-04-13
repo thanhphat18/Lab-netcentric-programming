@@ -1,0 +1,236 @@
+[
+  {
+    "id": 671,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+    "release_date": "2001-11-16",
+    "rating": 7.898,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+  },
+  {
+    "id": 672,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
+    "release_date": "2002-11-13",
+    "rating": 7.703,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg"
+  },
+  {
+    "id": 12444,
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+    "release_date": "2010-11-17",
+    "rating": 7.734,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg"
+  },
+  {
+    "id": 674,
+    "title": "Harry Potter and the Goblet of Fire",
+    "overview": "When his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons, and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
+    "release_date": "2005-11-16",
+    "rating": 7.801,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg"
+  },
+  {
+    "id": 12445,
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+    "release_date": "2011-07-12",
+    "rating": 8.1,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg"
+  },
+  {
+    "id": 675,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "overview": "Returning for his fifth year at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of motivated students to defend themselves against the Dark Arts.",
+    "release_date": "2007-07-08",
+    "rating": 7.672,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg"
+  },
+  {
+    "id": 673,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+    "release_date": "2004-05-31",
+    "rating": 8.008,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg"
+  },
+  {
+    "id": 767,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.",
+    "release_date": "2009-07-15",
+    "rating": 7.681,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg"
+  },
+  {
+    "id": 899082,
+    "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+    "overview": "An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.",
+    "release_date": "2022-01-01",
+    "rating": 7.312,
+    "genres": [
+      "Documentary"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg"
+  },
+  {
+    "id": 483898,
+    "title": "50 Greatest Harry Potter Moments",
+    "overview": "To mark the release two weeks ago of the eighth and final movie in the series, Robbie Coltrane narrates a countdown of the movie franchise's best moments. From Harry's first meeting with Ron and Hermione aboard the Hogwarts Express through to magical mysteries.",
+    "release_date": "2011-07-27",
+    "rating": 7.4,
+    "genres": [
+      "Documentary"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/g1xiBoLD6v3ZaXPa4QtuXiQeYKW.jpg"
+  },
+  {
+    "id": 1082707,
+    "title": "The Magic Touch of Harry Potter",
+    "overview": "A 2004 documentary on the first three “Harry Potter” films detailing the behind-the-scenes journey of making them.",
+    "release_date": "2004-06-11",
+    "rating": 7.7,
+    "genres": [
+      "Documentary"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/gwFARNYf1Odv3E8ESVHyikXmMIY.jpg"
+  },
+  {
+    "id": 918078,
+    "title": "Daniel Radcliffe: Being Harry Potter",
+    "overview": "Made-for-television documentary about Daniel Radcliffe and his role as Harry Potter.",
+    "release_date": "2012-10-10",
+    "rating": 6.6,
+    "genres": [
+      "Documentary",
+      "TV Movie"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/4keobTsQVrMS2JwE3TRod0SrYTD.jpg"
+  },
+  {
+    "id": 1599009,
+    "title": "Harry Potter: Fireplace",
+    "overview": "The Wizarding World welcomes you into the common room of all four Hogwarts houses -- cozy up around a crackling fire and say hi to some familiar friends.",
+    "release_date": "2022-12-25",
+    "rating": 0,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/kxMkjlxgQl9yJZUu9WV9jWSHpf9.jpg"
+  },
+  {
+    "id": 1039274,
+    "title": "Harry Potter: A Spirit Conspiracy?",
+    "overview": "The Occult Agenda documentary series is designed to awaken the church and non-believers alike to the spiritual warfare happening in the world today. Part I focuses on the Harry Potter phenomenon that has swept the world since author J.K. Rowling introduced her best-selling book series. But is Potter-mania merely the result of imaginative writing and clever marketing? Or could there be a hidden power behind the craze that has cast a spell on adults and children alike?",
+    "release_date": "2005-09-22",
+    "rating": 6.5,
+    "genres": [
+      "Documentary",
+      "Fantasy"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/e8jvqpVbVeVlSOV216sOIZmykGA.jpg"
+  },
+  {
+    "id": 500008,
+    "title": "Harry Potter: The Making of Diagon Alley",
+    "overview": "An inside look into the creation of Universal Studio's Diagon Alley attraction.",
+    "release_date": "2014-06-30",
+    "rating": 7.4,
+    "genres": [
+      "Documentary"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/8US9dTtr7zwi16XmecVHktdz4tt.jpg"
+  },
+  {
+    "id": 1459772,
+    "title": "Harry Potter: Witchcraft Repackaged",
+    "overview": "\"Making Evil Look Innocent\"  The narrators draw parallels between the Harry Potter books and witchcraft and other occult practices, and warn viewers of detrimental effects to children. Includes film clips from television programs and motion pictures",
+    "release_date": "2001-01-01",
+    "rating": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/jYDw8YYyGpTMs9O91KefxSwx4hd.jpg"
+  },
+  {
+    "id": 482408,
+    "title": "Harry Potter: A History Of Magic",
+    "overview": "A thrilling journey through legends, belief and folklore, this film goes behind the scenes with the British Library as they search to tell that story through objects in their collection, in an ambitious new exhibition: Harry Potter: A History Of Magic.  J.K. Rowling, who is lending unseen manuscripts, drawings and drafts from her private archives (which will sit alongside treasures from the British Library, as well as original drafts and drawings from Jim Kay) talks about some of the personal items she has lent to the exhibition and gives new insight into her writing, looking at some of the objects from the exhibition that have fired her imagination.",
+    "release_date": "2017-10-28",
+    "rating": 7.321,
+    "genres": [
+      "Documentary"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/kkzDng2S8w2hT1gap7MdMdx7uUE.jpg"
+  },
+  {
+    "id": 116972,
+    "title": "Discovering the Real World of Harry Potter",
+    "overview": "Explore the myths and legends that inhabit the real world of Harry Potter. Follow award-winning documentary filmmakers as they offer insights to witches, wizards, Greek gods, ancient Celts, ghosts, magical creatures, alchemy, and ancient spells. Narrated by British actor Hugh Laurie, this fascinating documentary brings new dimensions to the historical and scientific world behind the Harry Potter series.",
+    "release_date": "2001-12-10",
+    "rating": 6.9,
+    "genres": [
+      "Family",
+      "Documentary",
+      "TV Movie"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/yLpnOqKw3ZycFu8t5Gil1BqTbnB.jpg"
+  },
+  {
+    "id": 1118680,
+    "title": "Harry Potter : les secrets du phénomène",
+    "overview": "Immerse yourself in the magic of Harry Potter by uncovering the secrets behind the global bestseller. Over 20 years later, the wizards of Hogwarts remain immensely popular among audiences, transcending generations. To grasp the reasons behind such success, this documentary will introduce you to the most extravagant fans who perpetuate the phenomenon.",
+    "release_date": "2023-04-26",
+    "rating": 8.4,
+    "genres": [
+      "Documentary",
+      "Fantasy"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/7iJ20z09sZpbl0vgj4NIbnUDcfN.jpg"
+  },
+  {
+    "id": 1659468,
+    "title": "Harry Potter und ein Stein",
+    "overview": "",
+    "release_date": "2006-11-25",
+    "rating": 6,
+    "genres": [
+      "Comedy"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/dEQV8N9JTeIQgiWALauYlgV6W1G.jpg"
+  }
+]

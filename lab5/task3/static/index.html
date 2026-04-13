@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Room Chat</title>
+  <style>
+    body { font-family: monospace; max-width: 800px; margin: 40px auto; }
+    #log {
+      border: 1px solid #ccc;
+      padding: 10px;
+      height: 360px;
+      overflow-y: auto;
+      background: #f9f9f9;
+      margin-bottom: 10px;
+    }
+    .sent { color: blue; }
+    .chat { color: green; }
+    .join { color: purple; font-style: italic; }
+    .leave { color: brown; font-style: italic; }
+    .info { color: darkcyan; }
+    .error { color: red; }
+    .system { color: gray; font-style: italic; }
+    input { padding: 6px; margin-right: 6px; }
+    button { padding: 6px 12px; margin-right: 4px; }
+    #currentRoom { font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h2>Room Chat</h2>
+
+  <div>
+    <input id="name" value="Alice" placeholder="Username" style="width:120px;" />
+    <input id="room" value="general" placeholder="Room" style="width:120px;" />
+    <button onclick="connect()">Connect</button>
+    <button onclick="listRooms()">List Rooms</button>
+  </div>
+
+  <p>Current room: <span id="currentRoom">-</span></p>
+
+  <div id="log"></div>
+
+  <div>
+    <input id="msg" placeholder="Type a message..." style="width:320px;" />
+    <button onclick="sendChat()">Send</button>
+  </div>
+
+  <div style="margin-top:10px;">
+    <input id="newRoom" placeholder="New room name" style="width:180px;" />
+    <button onclick="joinRoom()">Join Room</button>
+  </div>
+
+  <script>
+    let ws = null;
+    const logDiv = document.getElementById("log");
+    const currentRoomSpan = document.getElementById("currentRoom");
+
+    function appendLog(text, cls) {
+      const div = document.createElement("div");
+      div.textContent = text;
+      div.className = cls;
+      logDiv.appendChild(div);
+      logDiv.scrollTop = logDiv.scrollHeight;
+    }
+
+    function connect() {
+      if (ws && ws.readyState === WebSocket.OPEN) {
+        appendLog("Already connected", "system");
+        return;
+      }
+
+      const username = encodeURIComponent(document.getElementById("name").value.trim() || "Anonymous");
+      const room = encodeURIComponent(document.getElementById("room").value.trim() || "general");
+
+      ws = new WebSocket(`ws://localhost:8080/ws?username=${username}&room=${room}`);
+
+      ws.onopen = () => {
+        currentRoomSpan.textContent = decodeURIComponent(room);
+        appendLog("Connected", "system");
+      };
+
+      ws.onmessage = (e) => {
+        const msg = JSON.parse(e.data);
+
+        if (msg.room) {
+          currentRoomSpan.textContent = msg.room;
+        }
+
+        switch (msg.type) {
+          case "chat":
+            appendLog(`[${msg.room}] ${msg.sender}: ${msg.content} (${msg.timestamp})`, "chat");
+            break;
+          case "join":
+            appendLog(`[${msg.room}] + ${msg.sender} ${msg.content}`, "join");
+            break;
+          case "leave":
+            appendLog(`[${msg.room}] - ${msg.sender} ${msg.content}`, "leave");
+            break;
+          case "room_list":
+            appendLog("Active rooms: " + msg.rooms.map(r => `${r.name}(${r.count})`).join(", "), "info");
+            break;
+          case "info":
+            appendLog(msg.content, "info");
+            break;
+          case "error":
+            appendLog("Error: " + msg.content, "error");
+            break;
+          default:
+            appendLog(JSON.stringify(msg), "system");
+        }
+      };
+
+      ws.onclose = () => appendLog("Disconnected", "system");
+      ws.onerror = () => appendLog("WebSocket error", "error");
+    }
+
+    function sendChat() {
+      const input = document.getElementById("msg");
+      const text = input.value.trim();
+      if (!ws || ws.readyState !== WebSocket.OPEN || !text) return;
+
+      const msg = {
+        type: "chat",
+        content: text
+      };
+
+      ws.send(JSON.stringify(msg));
+      appendLog(`→ ${text}`, "sent");
+      input.value = "";
+    }
+
+    function joinRoom() {
+      const room = document.getElementById("newRoom").value.trim();
+      if (!ws || ws.readyState !== WebSocket.OPEN || !room) return;
+
+      ws.send(JSON.stringify({
+        type: "join_room",
+        content: room
+      }));
+    }
+
+    function listRooms() {
+      if (!ws || ws.readyState !== WebSocket.OPEN) return;
+
+      ws.send(JSON.stringify({
+        type: "list_rooms"
+      }));
+    }
+
+    document.getElementById("msg").addEventListener("keypress", (e) => {
+      if (e.key === "Enter") sendChat();
+    });
+  </script>
+</body>
+</html>

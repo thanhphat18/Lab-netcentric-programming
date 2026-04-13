@@ -1,0 +1,167 @@
+[
+  {
+    "id": "324857",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "description": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "rating": 8.393,
+    "source": "TMDB",
+    "last_updated": "2026-03-31T12:44:22+07:00"
+  },
+  {
+    "id": "569094",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "description": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "rating": 8.331,
+    "source": "TMDB",
+    "last_updated": "2026-03-31T12:44:22+07:00"
+  },
+  {
+    "id": "634649",
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "rating": 7.933,
+    "source": "TMDB",
+    "last_updated": "2026-03-31T12:44:22+07:00"
+  },
+  {
+    "id": "mock-4",
+    "title": "Spider-Man 2",
+    "director": "Sam Raimi",
+    "year": 2004,
+    "description": "Peter Parker struggles to balance life and hero duties.",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "rating": 7.8,
+    "duration_minutes": 127,
+    "source": "MovieScraper",
+    "last_updated": "2026-03-31T12:44:21+07:00"
+  },
+  {
+    "id": "mock-2",
+    "title": "Spider-Man: Homecoming",
+    "director": "Jon Watts",
+    "year": 2017,
+    "description": "Peter Parker balances high school life with being Spider-Man.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "rating": 7.4,
+    "duration_minutes": 133,
+    "source": "MovieScraper, TMDB",
+    "last_updated": "2026-03-31T12:44:22+07:00"
+  },
+  {
+    "id": "429617",
+    "title": "Spider-Man: Far From Home",
+    "year": 2019,
+    "description": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "rating": 7.396,
+    "source": "TMDB",
+    "last_updated": "2026-03-31T12:44:22+07:00"
+  },
+  {
+    "id": "mock-1",
+    "title": "Spider-Man",
+    "director": "Sam Raimi",
+    "year": 2002,
+    "description": "Peter Parker becomes Spider-Man after being bitten by a genetically altered spider.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "rating": 7.323,
+    "duration_minutes": 121,
+    "source": "MovieScraper, TMDB",
+    "last_updated": "2026-03-31T12:44:22+07:00"
+  },
+  {
+    "id": "mock-3",
+    "title": "The Amazing Spider-Man",
+    "director": "Marc Webb",
+    "year": 2012,
+    "description": "A new take on Peter Parker's origin story.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "rating": 6.9,
+    "duration_minutes": 136,
+    "source": "MovieScraper, TMDB",
+    "last_updated": "2026-03-31T12:44:22+07:00"
+  },
+  {
+    "id": "559",
+    "title": "Spider-Man 3",
+    "year": 2007,
+    "description": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "rating": 6.453,
+    "source": "TMDB",
+    "last_updated": "2026-03-31T12:44:22+07:00"
+  },
+  {
+    "id": "225914",
+    "title": "Spider-Man",
+    "year": 1977,
+    "description": "When an extortionist threatens to force a multi-suicide unless a huge ransom is paid, only Peter Parker can stop him with his new powers as Spider-Man.",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Crime",
+      "TV Movie"
+    ],
+    "rating": 6.317,
+    "source": "TMDB",
+    "last_updated": "2026-03-31T12:44:22+07:00"
+  },
+  {
+    "id": "969681",
+    "title": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "description": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "rating": 0,
+    "source": "TMDB",
+    "last_updated": "2026-03-31T12:44:22+07:00"
+  }
+]

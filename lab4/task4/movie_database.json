@@ -1,0 +1,3816 @@
+{
+  "movies": {
+    "1012009": {
+      "id": "1012009",
+      "title": "13 Minutes of Horror: Sci-Fi Horror",
+      "year": 2022,
+      "description": "Sci-Fi Horror has led us into the depths of fear and back again, from the mundane to the fantastical. It's the fear of the unknown, the fear of the depths of space, and the fear of where our technology will lead. Here, the winners of Nyx Horror Collective's 13 Minutes of Horror 2022 60-Second Film Challenge lead you through the wicked, the weird and the worrisome all within one terrifying minute.  =",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "1016212": {
+      "id": "1016212",
+      "title": "Taiwan Batman",
+      "year": 2021,
+      "description": "The fierce and domineering Lee Volcano specializes in animal rescue and has lynched animal cruelty offenders. Some activists hate his style, but some supporters believe he has done justice to the ineffective animal protection laws.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "1022459": {
+      "id": "1022459",
+      "title": "Heino Hansens første comedy show",
+      "year": 2022,
+      "description": "In 1998 at Sct. Jørgens Skole in Næstved, the then 14-year-old Heino Hansen wrote a Danish essay that had his class in stitches. The otherwise shy and anonymous Heino became the funniest kid in the class from then on, and Heino Hansen was born! In Heino's first comedy show, you're taken back to the day he realized he was funny.",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "1031185": {
+      "id": "1031185",
+      "title": "The Marvellous Cook",
+      "year": 2000,
+      "description": "",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "1031774": {
+      "id": "1031774",
+      "title": "Thriller 40",
+      "year": 2023,
+      "description": "Forty years after the release of Michael Jackson’s ‘Thriller,’ the best-selling album of all-time, director Nelson George takes fans back in time to the making of a pop masterpiece, featuring never-before-seen footage and candid interviews.",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "rating": 8.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "1040605": {
+      "id": "1040605",
+      "title": "Thriller CRT",
+      "year": 1991,
+      "description": "A creepy anthology about a homicidal little girl, a woman being stalked, a dentist and a man struggling to keep his eyes open on the road.",
+      "genres": [
+        "Horror"
+      ],
+      "rating": 7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "1044490": {
+      "id": "1044490",
+      "title": "Action!",
+      "year": 2022,
+      "description": "At the heart of the story is the clapperboard, the beginning and end of every magical shot. A symphony.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "1045810": {
+      "id": "1045810",
+      "title": "Sex Addiction: The Wet Daily Life of a Manzai Comedy Artist",
+      "year": 2018,
+      "description": "After disbanding the trio, entertainer Kenichi was working part-time at a cleaning company. On the other hand, Nami, who was Kenichi's ex-girlfriend, formed a new combination with Yusuke and was working hard at training, but her material was boring and she relied on Kenichi. Meanwhile, Kenichi and Kazuyo naturally have a physical relationship, but she finds out that Kazuyo was actually the wife of the late Kantaro Namiki, whom Kenichi admired.",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 3,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "1070169": {
+      "id": "1070169",
+      "title": "Horror House Vol. 2",
+      "year": 2021,
+      "description": "Eight men and women were gathered. What is the identity of the woman who joined late?",
+      "genres": [
+        "Horror"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "11": {
+      "id": "11",
+      "title": "Star Wars",
+      "year": 1977,
+      "description": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "rating": 8.201,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "1137060": {
+      "id": "1137060",
+      "title": "billboard classics KODA KUMI Premium Symphonic Concert 2022",
+      "year": 2023,
+      "description": "Koda Kumi's Premium Symphonic Concert that took place at Billboard live @festival hall in Tokyo",
+      "genres": [
+        "Music"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "1142311": {
+      "id": "1142311",
+      "title": "Animation",
+      "year": 1960,
+      "description": "Soundtrack: Stravinsky's PETROUCHKA.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "1142516": {
+      "id": "1142516",
+      "title": "\"D\"ramatic S!",
+      "year": 2017,
+      "description": "This performance delivers a number of “show scenes” depicting the charm of the Snow Troupe.  As a National Tour version to which \"D\" is the newly added keyword, please look forward to a \"Dynamic\" and \"Dramatic\" show centering on Nozomi Fuuto, who will lead a reborn Snow Troupe.",
+      "genres": [
+        "Music"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "1142643": {
+      "id": "1142643",
+      "title": "1920: Horrors of the Heart",
+      "year": 2023,
+      "description": "After her father's suicide, Meghna gets led by one obsession - vengeance. The trail ends at her estranged mother's doorstep, sparking a bloody rampage.",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "rating": 2.8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "1143210": {
+      "id": "1143210",
+      "title": "Smash Cuts! Super Sci-Fi Shorts Fest",
+      "year": 2001,
+      "description": "Host Scott Forrest presents a curated compilation of eight independent short films in this rapid-fire science-fiction feature. Genres collide, narratives twist, aesthetics clash, and even humor, both campy and dystopian, showcase the vast creative possibilities of each story's individual world, offering the viewer a brief glimpse into the lives of every character's attempt to survive the otherworldly chaos around them. Released in 2001, the selected shorts span original creation dates of 1997 to 2001; most of the featured filmmakers also appear as themselves in short video interviews to talk about their inspirations, creative process and motivations while working on their individual shorts.",
+      "genres": [
+        "Science Fiction",
+        "Horror",
+        "Comedy",
+        "Thriller"
+      ],
+      "rating": 6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "1157923": {
+      "id": "1157923",
+      "title": "A Marvellous Detective",
+      "year": 2004,
+      "description": "Ke-Nan is a brainless detective, he is sent to solve a complicated murder case.",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Comedy"
+      ],
+      "rating": 3,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "1158983": {
+      "id": "1158983",
+      "title": "Drama",
+      "year": 2022,
+      "description": "Part of paraconsistent sequence series. “A paraconsistent logic allows inconsistency without absurdity.” The works in this subcollection contain contradictions of time and place, reorganizations of past, present and future.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "1159165": {
+      "id": "1159165",
+      "title": "The New Marvelous Double",
+      "year": 1992,
+      "description": "Hong Kong movie",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "1175437": {
+      "id": "1175437",
+      "title": "Marvel Teacher",
+      "year": 2019,
+      "description": "Chinese movie",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "1182730": {
+      "id": "1182730",
+      "title": "Sci-Fi Slaughter",
+      "year": 2005,
+      "description": "Calling all Aliens from Angel City to the desert, razor sharp claws, killer parasites, deadly websites, and world destruction prevail. But have no fear. Bradbury, Jack Deth, Zack Stone and Paul Dean, will save the day. They are out of this world!",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "rating": 6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "1183372": {
+      "id": "1183372",
+      "title": "Action!",
+      "year": 2023,
+      "description": "Mia sets out to Film her own movie. Justin documents the making of the film. Things go off script. Shea begins killing the cast in order to make his own film.",
+      "genres": [
+        "Thriller"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "1183943": {
+      "id": "1183943",
+      "title": "Thriller",
+      "year": 1972,
+      "description": "The horror of male-female erotic relationships. A series of shocking love failures. They are hilarious for the viewers and terrifying for the protagonists.",
+      "genres": [
+        "Animation"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "1186206": {
+      "id": "1186206",
+      "title": "Action",
+      "year": 2023,
+      "description": "A young college filmmaker is setting up their camera to film their first short film ever.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "1190110": {
+      "id": "1190110",
+      "title": "Horror",
+      "year": 2023,
+      "description": "Horror is a genre of fiction which is intended to frighten or scare the viewer. In this incredible documentary, we examine the history and art of horror through the ages. Get ready to shiver!",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 4.8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "1210510": {
+      "id": "1210510",
+      "title": "Thriller",
+      "year": 2014,
+      "description": "Michele is a fourteen year old boy with a dream. He wants to dance like his idol Michael Jackson. Unluckily the same day he has his audition there is also a demonstration against his father's factory shut down. Michele has got an idea...",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "12173": {
+      "id": "12173",
+      "title": "The Marvelous Visit",
+      "year": 1974,
+      "description": "In a small French village, an angel appears disguised as a beautiful young blond.",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "rating": 4.8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "1217624": {
+      "id": "1217624",
+      "title": "The Evolution of Horror Cinema Worldwide",
+      "year": 2025,
+      "description": "Why do people no longer see this type of stories nowadays? How can this notion be awakened? Which films should begin to feed back from the past and balance them with the current horror?",
+      "genres": [
+        "Documentary",
+        "Horror"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "12180": {
+      "id": "12180",
+      "title": "Star Wars: The Clone Wars",
+      "year": 2008,
+      "description": "As the Clone Wars sweep through the galaxy, the heroic Jedi Knights struggle to maintain order and restore peace. More and more systems are falling prey to the forces of the dark side as the Galactic Republic slips further and further under the sway of the Separatists and their never-ending droid army. Anakin Skywalker and his Padawan learner Ahsoka Tano find themselves on a mission with far-reaching consequences, one that brings them face-to-face with crime lord Jabba the Hutt. But Count Dooku and his sinister agents, including the nefarious Asajj Ventress, will stop at nothing to ensure that Anakin and Ahsoka fail at their quest. Meanwhile, on the front lines of the Clone Wars, Obi-Wan Kenobi and Master Yoda lead the massive clone army in a valiant effort to resist the forces of the dark side...",
+      "genres": [
+        "Animation",
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "rating": 6.147,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "1218606": {
+      "id": "1218606",
+      "title": "Sci-fi Silence",
+      "year": 2023,
+      "description": "Alien encounters with ourselves among the stars and planets we call home.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "1223885": {
+      "id": "1223885",
+      "title": "horror",
+      "year": 0,
+      "description": "These movies is very exiting.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "1228710": {
+      "id": "1228710",
+      "title": "Star Wars: The Mandalorian and Grogu",
+      "year": 2026,
+      "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "123025": {
+      "id": "123025",
+      "title": "Batman: The Dark Knight Returns, Part 1",
+      "year": 2012,
+      "description": "Batman has not been seen for ten years. A new breed of criminal ravages Gotham City, forcing 55-year-old Bruce Wayne back into the cape and cowl. But, does he still have what it takes to fight crime in a new era?",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Animation",
+        "Mystery"
+      ],
+      "rating": 7.733,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "1232802": {
+      "id": "1232802",
+      "title": "Brain Crash Theatre [DRAMAtical Murder] Flashback",
+      "year": 2023,
+      "description": "The distant future.  Midorijima, an island in Japan's south west, is an island divided - home to both 'Platinum Jail', a luxurious members-only resort owned by one of Japan's leading conglomerates, Toue Concern, and to the 'Old Residential District', where the original reisdents of the island have been forcibly relocated by rapid and aggressive development.  Within the 'Old Residenital District', two games in particular are popular. On one hand - 'Ribsteez', where teams are formed to fight over territory in hand-to-hand combat. And on the other - 'Rhyme', a vast virtual reality where 'Rhymers' battle and compete against one another in digital matches.  Our protagonist Aoba doesn't really care for either of these. All he wants is to be able to live a relaxed and happy life in the 'Old Residential District' with his grandmother.  However, something strange is beginning to happen - something that not only threatens Aoba's peaceful days, but all of Midorijima.",
+      "genres": [
+        "Science Fiction",
+        "Romance"
+      ],
+      "rating": 8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "1232807": {
+      "id": "1232807",
+      "title": "Sex Is Comedy: The Revolution of Intimacy Coordinators",
+      "year": 2023,
+      "description": "A fascinating insight into the role of the intimacy co-ordinator, told through behind-the-scenes access to new queer French TV show Split.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "1233816": {
+      "id": "1233816",
+      "title": "Action!",
+      "year": 2024,
+      "description": "Lee’s girlfriend accuses him of cheating and leaves him. In an attempt to get her back, he decides to make a film that shows what “really” happened.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "1244845": {
+      "id": "1244845",
+      "title": "Sci Fi Inside: Stargate SG-1 200th Episode",
+      "year": 2006,
+      "description": "The 200th episode of the venerated sci-fi series is discussed during this special.",
+      "genres": [
+        "Science Fiction",
+        "Documentary",
+        "TV Movie"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "125249": {
+      "id": "125249",
+      "title": "Batman",
+      "year": 1943,
+      "description": "Japanese master spy Daka operates a covert espionage-sabotage organization located in Gotham City's now-deserted Little Tokyo, which turns American scientists into pliable zombies. The great crime-fighters Batman and Robin, with the help of their allies, are in pursuit.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "rating": 6.2,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "1253090": {
+      "id": "1253090",
+      "title": "Romance",
+      "year": 2021,
+      "description": "Laura meets Carlos at a party. They dance, drink and have fun on a night that will be hard to forget.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "1263640": {
+      "id": "1263640",
+      "title": "Thriller",
+      "year": 2002,
+      "description": "Thriller opens with the scene of a house in a forest (reminiscent of Tarkovsky) in which a young man in farm clothes bearing a suffering demeanour tends sheep and a young woman in vampiric goth-garb gathers bracken for a fire. They do not look at one another. The soundtrack hums eerily. The young woman looks up towards an upstairs window of the house. Cut to an interior where a younger girl lies daydreaming on her bed. The man enters the house, turns the handle of her door. Cut to a close-up of her porcelain face wide-eyed in terror. The suspense dissipates as he turns away without opening the door. Cut to the girl as she lies back down on her bed, an enigmatic smile on her face. (Some critics have read her expression as relief, perhaps at some averted abuse, but her expression could also be read as triumph.)",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "1273232": {
+      "id": "1273232",
+      "title": "Sci-Fi Vixens from Beyond",
+      "year": 2024,
+      "description": "When a student of intergalactic anthropology is assigned to study our planet, she takes a keen interest in the cosmic cuties and heroic hotties battling beyond the stars and invading our fertile, green orb.",
+      "genres": [
+        "Science Fiction",
+        "Romance",
+        "Horror"
+      ],
+      "rating": 6.3,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "1276703": {
+      "id": "1276703",
+      "title": "Love Unlike in K-Dramas",
+      "year": 2024,
+      "description": "A surprise trip to Seoul reunites Dhea with an old flame, forcing her to face past feelings and question her current relationship.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 6.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "128868": {
+      "id": "128868",
+      "title": "Crayon Shin-chan: Action Mask vs. Leotard Devil",
+      "year": 1993,
+      "description": "Everyone's favorite TV superhero Action Mask shows up in Kasukabe, and he's trying to get something from Shin-chan -- but what could it be?",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "1297763": {
+      "id": "1297763",
+      "title": "Batman Ninja vs. Yakuza League",
+      "year": 2025,
+      "description": "The Batman family has returned to the present to discover that Japan has disappeared, and a giant island - Hinomoto - is now in the sky over Gotham City.  At the top sit the Yakuza, a group of superpowered individuals who reign without honor or humanity and look suspiciously like the Justice League. Now, it’s up to Batman and his allies to save Gotham!",
+      "genres": [
+        "Animation",
+        "Action",
+        "Science Fiction"
+      ],
+      "rating": 6.7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "1298875": {
+      "id": "1298875",
+      "title": "Action!",
+      "year": 2024,
+      "description": "Frustrated filmmakers and couple, Pat and Nik, just stole one million pesos from a dangerous man, named Dado, so they can fund their next film. Believing they got off the hook, they stay temporarily in a coffee shop to brainstorm and plan their next move in producing their dream movie.",
+      "genres": [
+        "Action"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "1300569": {
+      "id": "1300569",
+      "title": "Spaghetti Sci-Fi",
+      "year": 2018,
+      "description": "Somewhere on Earth, a worker robot encounters an alien. Having never seen one before, he takes it for a thief.",
+      "genres": [
+        "Science Fiction"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "1300678": {
+      "id": "1300678",
+      "title": "ACTION !",
+      "year": 2024,
+      "description": "Sami is a young man who is about to go to film school with the help of his uncle. After two years, he releases his first short film that is butchered by critics. Sami falls into a severe depression and starts doubting himself and the path he chose...",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "1304838": {
+      "id": "1304838",
+      "title": "Thriller",
+      "year": 2019,
+      "description": "",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "131185": {
+      "id": "131185",
+      "title": "Alias Batman and Robin",
+      "year": 1991,
+      "description": "Alyas Batman en Robin is a 1991 Filipino Batman comedy film produced by Regal Films spoofing the 1960s Batman television series. The movie was initially an unauthorized production, set to capitalize on the then in-production 1989 Batman film starring Michael Keaton. Warner Brothers threatened legal action and the release of the film was delayed until legal entanglements could be sorted out. The film was released in 1991, two years later than the intended 1989 release.",
+      "genres": [
+        "Comedy",
+        "Action"
+      ],
+      "rating": 4.7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "1324889": {
+      "id": "1324889",
+      "title": "Brain Crash Theatre [Dramatical Murder]",
+      "year": 2019,
+      "description": "DRAMAtical Murder, a popular BL game released by Nitro+CHiRAL in 2012, is an adventure game set on the remote island of Midorijima in the future, and the story branches depending on the choices you make. Even in this stage, the story diverges from the middle! In each episode, a story focuses on the characters of Kojaku, Noise, Mink, Clear, and Ren.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "1325734": {
+      "id": "1325734",
+      "title": "The Drama",
+      "year": 2026,
+      "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 6.3,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "134053": {
+      "id": "134053",
+      "title": "Animation Runner Kuromi 2",
+      "year": 2004,
+      "description": "Following Studio Petit's popularity for Time Journey's, the crew is now faced with 3 anime at the same time. Rushing to fill the quotas, the owner of Studio Petit hires Takashimadaira, a veteran producer to help Kuromi. However, all Takashimadaira cares about is making deadlines, severely hurting the quality of the images. Shihonmatsu, who has been helping Kuromi, gets angry at the new producer and leaves, leaving Kuromi with a difficult choice: to choose between the quality or the deadline.",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "1360929": {
+      "id": "1360929",
+      "title": "Comedy",
+      "year": 0,
+      "description": "An unlucky stand-up comedian turns to his jokes to cope with the constant tragedies happening around him which leads to his downward spiral.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "rating": 7.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "1370054": {
+      "id": "1370054",
+      "title": "Action!!!",
+      "year": 2024,
+      "description": "One day, the cafe where Kevin works is borrowed as a filming location. At an unexpected time, Kevin meets Ranni, one of the make-up artists in the production crew. At the same time the clapper closes, they then imagine as if they were in a movie and do various romantic scenes. But when they are free from their imagination, they have to face the awkwardness and embarrassment of getting to know each other.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "1371727": {
+      "id": "1371727",
+      "title": "Sing: Thriller",
+      "year": 2024,
+      "description": "Buster Moon dreams up a star-studded spectacle set to Michael Jackson's \"Thriller\" in this animated short featuring characters from the hit \"Sing\" films.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Music"
+      ],
+      "rating": 7.2,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "1375768": {
+      "id": "1375768",
+      "title": "Action",
+      "year": 0,
+      "description": "Exploring transgender and non-binary representations through an autoethnographic video essay-documentary form, including the voices of transgender and non-binary participants with a variety of filmmaking experiences.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "137599": {
+      "id": "137599",
+      "title": "Action",
+      "year": 1980,
+      "description": "Z-movie actor Bruno Martel has hero syndrome, often quarrelling with directors. He meets fellow actor Doris, who is obsessed with Ophelia but cannot get any Shakespearean bookings. One day, during a nervous breakdown, Bruno 'rescues' Doris from the set, leaving town to encounter various absurd situations.",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 4.4,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "1378486": {
+      "id": "1378486",
+      "title": "Romance",
+      "year": 1976,
+      "description": "The plot revolves around Tom (Ed Bowes) and his girlfriend Kathleen (Elizabeth Cannon) and what occurs when her mother and androgynous brother Tommy (Karen Achenbach) come to visit. Tom is receiving transcripts of his innermost thoughts in anonymous letters. Sexual ambiguity, symbiotic relationships, and self-identity are all at play here. Structured in long, uncut takes with beautiful camera work by Tom Bowes, the real-time aesthetic of the work is the result of the script, in which much of the action takes place in drifting conversations. — Marita Sturken, “Television Fictions: An Interview with Ed Bowes,” AFTERIMAGE (May 1986)",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "1381602": {
+      "id": "1381602",
+      "title": "Romance",
+      "year": 0,
+      "description": "",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "1387259": {
+      "id": "1387259",
+      "title": "Action!",
+      "year": 2022,
+      "description": "In the final year of high school, a group of students embarks on creating a short film for a competition. Despite facing numerous obstacles and challenges that test their teamwork and unity, the group learns valuable lessons in persistence and collaboration. As tensions rise and doubts creep in, one member reminds them that struggles are part of the journey. Together, they push forward, determined to finish what they started. This film, made as a keepsake for their graduation, captures not only the struggles they faced but the triumph of overcoming them.",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "1387299": {
+      "id": "1387299",
+      "title": "Horror",
+      "year": 2015,
+      "description": "",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "1391318": {
+      "id": "1391318",
+      "title": "Black Sci-Fi",
+      "year": 1992,
+      "description": "Part of the Birthrights series, this BBC Two documentary  is a wonderful window into the groundbreaking contributions of Black writers and creatives to the world of science fiction across literature, film and television. The program explores the evolving portrayal of Black characters and narratives in a genre often dominated by exclusionary perspectives, featuring compelling interviews with trailblazers like Octavia Butler, Samuel R. Delany, Mike Sargent, Steven Barnes and Nichelle Nichols. Celebrating the imaginative brilliance of Black sci-fi and fantasy creators, this seeks to examine the complexities of race within said genres as well as the visionary paths these resilient storytellers forge for the future of speculative fiction.",
+      "genres": [
+        "Documentary",
+        "Science Fiction"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "140607": {
+      "id": "140607",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015,
+      "description": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "rating": 7.25,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "1417668": {
+      "id": "1417668",
+      "title": "Star Wars: Starfighter",
+      "year": 2027,
+      "description": "An original story set approximately five years after the events of Star Wars: The Rise of Skywalker.",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "142061": {
+      "id": "142061",
+      "title": "Batman: The Dark Knight Returns, Part 2",
+      "year": 2013,
+      "description": "Batman has stopped the reign of terror that The Mutants had cast upon his city.  Now an old foe wants a reunion and the government wants The Man of Steel to put a stop to Batman.",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Animation",
+        "Mystery"
+      ],
+      "rating": 7.924,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "1424835": {
+      "id": "1424835",
+      "title": "Action!",
+      "year": 1995,
+      "description": "Star troupe's skits.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "1429945": {
+      "id": "1429945",
+      "title": "Romance",
+      "year": 1985,
+      "description": "In Romance, an airline steward caught up in the extremes of a gay lifestyle he can no longer control falls in love, as best he can, with a lonely, overweight woman. Haas’s most ambitious production, it was conceived with downtown poet Peter Smith and boasts a sizable cameo appearance by writer Edmund White, co-author of The Joy of Gay Sex.",
+      "genres": [
+        "Romance"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "1437756": {
+      "id": "1437756",
+      "title": "Grisaia: Phantom Trigger the Animation SORD",
+      "year": 2019,
+      "description": "Following the Heath Oslo incident, the existence of the US-Japanese anti-terror organization CIRS has become a matter of public knowledge. CIRS has been rebuilt from the ground up, and its most covert functions spun off to a new agency: SORD (Social Ops, Research \u0026 Development).  The goal of SORD is to train a new generation of operatives to defend the country against future threats. To that end, the organization has established a series of schools up and down the country. Mihama Academy, more-or-less left to rot after its abrupt closure, has been given new purpose as one such 'specialist training school'. It now entrusts the misfit girls who attend it with guns and live ammunition.  No matter how much life grinds them down, what future awaits these girls, who've themselves chosen the path of the gun?",
+      "genres": [
+        "Animation",
+        "Action"
+      ],
+      "rating": 1,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "1452020": {
+      "id": "1452020",
+      "title": "HORROR",
+      "year": 2024,
+      "description": "",
+      "genres": [
+        "Thriller"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "1468927": {
+      "id": "1468927",
+      "title": "Thriller",
+      "year": 0,
+      "description": "JB and Vincent, two close friends, are invited to their friend Clara's party. Good thing : Léonie, Vincent secret crush, is there too. Bad thing : In Clara's neighbourhood, there was apparently murders and disparitions. But would you let fear take over love ?",
+      "genres": [
+        "Thriller",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "1471773": {
+      "id": "1471773",
+      "title": "Sci Fi Saci",
+      "year": 2025,
+      "description": "The saci, the end of the world and the hundred years of a filmmaker.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "1476435": {
+      "id": "1476435",
+      "title": "The Phantom Budget - A Star Wars Parody",
+      "year": 2025,
+      "description": "Get ready for the wildest, wackiest, and downright hilarious retelling of Star Wars: The Phantom Menace you've ever seen! Watch as we bring George Lucas' iconic 1996 film to life with a low-budget, Z-movie twist! Taking heavy inspiration from The Amazing Bulk, this epic scene-for-scene remake recreates every iconic moment from The Phantom Menace with delightfully goofy special effects that will have you laughing, cringing, and questioning the laws of cinema.",
+      "genres": [
+        "Science Fiction"
+      ],
+      "rating": 9,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "148918": {
+      "id": "148918",
+      "title": "Superman, Spider-Man or Batman",
+      "year": 2011,
+      "description": "Aron, a 5-year-old boy, sets together with his worried father on a journey at the end of which he wishes, like the superheroes in the comic books, to save his mother suffering from a heart condition.",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 6.9,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "1495716": {
+      "id": "1495716",
+      "title": "App the Horror",
+      "year": 2026,
+      "description": "When the app is launched, a ghost appears. Developed by four young adults, the app becomes the centerpiece of a livestream where they venture into a supposedly haunted mountain to prove its authenticity—only to meet a grim fate.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "15018": {
+      "id": "15018",
+      "title": "Thriller: A Cruel Picture",
+      "year": 1973,
+      "description": "Madeleine, rendered mute after being sexually assaulted as a youth, accepts a lift from a wealthy and sadistic pimp who soon enslaves her into his prostitution racket. Despite her limited means, Madeleine embarks on a bloody road to revenge against her captors.",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime",
+        "Horror"
+      ],
+      "rating": 6.336,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "15097": {
+      "id": "15097",
+      "title": "Fear City: A Family-Style Comedy",
+      "year": 1994,
+      "description": "A second-class horror movie has to be shown at Cannes Film Festival, but, before each screening, the projectionist is killed by a mysterious fellow, with hammer and sickle, just as it happens in the film to be shown.",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 7.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "1510038": {
+      "id": "1510038",
+      "title": "Celebrity Manhunt's Total Drama Action Reunion Special",
+      "year": 2010,
+      "description": "Season two has reached its end, and everyone is living the big life outside of the show, and some… not so big. All twenty-two contestants gather at the Gemmie Awards for their show's nomination. However, their world comes crashing down when the former host announces a new reality show to replace them. In a desperate attempt to save their fame, all of the contestants (plus a new face) join together in a race to New York City in a bus to beat a team of dirtbags and their leader. All the while, a third show documents their every move. Can they make it in time and stop the world from knowing them as Reality TV has-beens? What does their old host really have planned?",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 10,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "1534180": {
+      "id": "1534180",
+      "title": "Romance",
+      "year": 1962,
+      "description": "A young woman dates a number of men according to their car size. But the larger the car gets, the older the man becomes. Abandoned by her last partner, she re-does the journey in reverse only to find all the spaces taken.",
+      "genres": [
+        "Animation",
+        "Romance",
+        "Comedy"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "1535095": {
+      "id": "1535095",
+      "title": "Batman",
+      "year": 0,
+      "description": "",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "1543731": {
+      "id": "1543731",
+      "title": "Classic",
+      "year": 0,
+      "description": "A young woman receives the keys to the car she has been waiting her whole life to drive but the moment is bittersweet as she must come to terms with her beloved uncle's terminal prognosis.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "154452": {
+      "id": "154452",
+      "title": "Star Wars Tech",
+      "year": 2007,
+      "description": "Exploring the technical aspects of Star Wars vehicles, weapons and gadgetry, Star Wars Tech consults leading scientists in the fields of physics, prosthetics, lasers, engineering and astronomy to examine the plausibility of Star Wars technology based on science as we know it today.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 7.9,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "1550364": {
+      "id": "1550364",
+      "title": "Star Wars: The Equilibrium Knight",
+      "year": 2021,
+      "description": "Benja Naberrie is a man living a peaceful life. That is until he gets mysterious visions and awakes to a being named Big Brother who has come to challenge him.",
+      "genres": [
+        "Science Fiction"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "1571373": {
+      "id": "1571373",
+      "title": "Def Comedy Jam: All Stars 12",
+      "year": 2001,
+      "description": "Def Comedy Jam: All Stars 12 was a home video release from 1999 featuring stand-up performances from the iconic HBO series. The compilation showcased some of the show's best and brightest comedians from the urban comedy scene, including Tracy Morgan and Bill Bellamy.",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "1583800": {
+      "id": "1583800",
+      "title": "Dráma",
+      "year": 1986,
+      "description": "",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "1595910": {
+      "id": "1595910",
+      "title": "Classic!",
+      "year": 2025,
+      "description": "A documentary following Sasha Fatsevych as he turns his love for retro cars and film into a thriving business.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "1600699": {
+      "id": "1600699",
+      "title": "Action!",
+      "year": 2008,
+      "description": "Rushes of film scenes. The countryside. A father with two children. The same clapperboard on-screen over and over. Starting afresh again.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "1601034": {
+      "id": "1601034",
+      "title": "The Cinema of John Williams (Indiana Jones, E.T., Star Wars and more)",
+      "year": 2025,
+      "description": "The Radio France Philharmonic Orchestra, Bastien Stil and Nathan Mierdl transport the Radio France Auditorium into the spellbinding world of John Williams. From Jurassic Park to Harry Potter, rediscover legendary melodies from Hollywood cinema.",
+      "genres": [
+        "Music"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "161367": {
+      "id": "161367",
+      "title": "Thriller Zone",
+      "year": 1995,
+      "description": "There are three unrelated, unconnected segments in this horror anthology. In the first segment, \"The Last Hand,\" a man is shot, while another man has a heart attack. The latter man (Morty) survives, and goes to his regular poker game, but the man who was shot shows up looking well, if sinister. Morty had a hand in his death, it seems, and Morty grows increasingly agitated, and starts hallucinating. In the second segment,\"The Final Hour,\" a convicted murderer in the year 2213 is being transported to a trial for his appeal and forms a relationship with the ship's pilot. The last segment, \"Fanatical Extreme,\" is a condensed version of the feature film The Last Horror Film (1982), in which taxi driver Joe Spinell tries to realize his fantasy of making a horror movie with his favorite star, but he's not exactly welcome.",
+      "genres": [
+        "Horror"
+      ],
+      "rating": 5.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "161704": {
+      "id": "161704",
+      "title": "Doraemon: Nobita's Little Star Wars",
+      "year": 1985,
+      "description": "As Nobita, Gian, Shizuka, and Suneo are making their own space movie, a fleeing bug-sized alien president makes his way to Earth, and needs the help of the kids and Doraemon to stop an oppressive dictatorship threatening his democracy.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "rating": 7.1,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "1627080": {
+      "id": "1627080",
+      "title": "Marvelous 2025 Final",
+      "year": 2025,
+      "description": "Marvelous 2025 Final was a professional wrestling event promoted by Marvelous That's Women Pro Wrestling. It took place on December 28, 2025, in Tokyo, Japan at Korakuen Hall.",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "1634261": {
+      "id": "1634261",
+      "title": "Marvelous Mio 10th Anniversary",
+      "year": 2026,
+      "description": "Mio 10th Anniversary was a professional wrestling event promoted by Marvelous That's Women Pro Wrestling, commemorating the tenth anniversary of company star Mio Momono's in-ring debut. It took place on February 13, 2026, at Shin-Kiba 1st RING in Tokyo, Japan.",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "171982": {
+      "id": "171982",
+      "title": "Romance",
+      "year": 2012,
+      "description": "She's as hot as Britney Spears. Hotter. She parties like Hollywood. She's way out of his league. Or that's the story he's sticking to.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "rating": 6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "181808": {
+      "id": "181808",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017,
+      "description": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "rating": 6.756,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "181812": {
+      "id": "181812",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019,
+      "description": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "rating": 6.272,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "1893": {
+      "id": "1893",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999,
+      "description": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "rating": 6.571,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "1894": {
+      "id": "1894",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "year": 2002,
+      "description": "Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot into the heart of the Separatist movement and the beginning of the Clone Wars.",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "rating": 6.59,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "1895": {
+      "id": "1895",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005,
+      "description": "When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the Republic crumbles and from its ashes rises the evil Galactic Empire. Jedi hero Anakin Skywalker must choose a side.",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "rating": 7.462,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "191943": {
+      "id": "191943",
+      "title": "The Thriller",
+      "year": 2010,
+      "description": "Simon is the son of Joseph Palathinkal, a business multi millionaire. One night during the night patrol, Niranjan finds Simon stabbed and murdered on a highway. Who killed him? and why?",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 4.1,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "204122": {
+      "id": "204122",
+      "title": "Romance",
+      "year": 1986,
+      "description": "A father and son try to reconcile spending a few days together and confronting each other also through their own marital experiences.",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 1,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "208816": {
+      "id": "208816",
+      "title": "Wee Sing in the Marvelous Musical Mansion",
+      "year": 1992,
+      "description": "A mysterious package from Timbuktu? A door knocker that rattles off riddles? Music boxes that come to life? Piccolo Pizza and Piano Pudding? Where will you find such magical, musical, mysterious things? At Uncle Rubato’s Marvelous Musical Mansion! Dance and sing in every room with enchanting new friends and help Uncle Rubato, Aunty Annabella, Alex, Benji, and Kelly solve a most baffling mystery---who or what took all the missing musical treasures? Enjoy this wholesome entertainment for the entire family. Dazzling sets and over 20 uplifting song and dance numbers showcase adorable characters who inspire the love of music while sharing important values including self-esteem and being considerate of others.",
+      "genres": [
+        "Family"
+      ],
+      "rating": 4.3,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "209112": {
+      "id": "209112",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016,
+      "description": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 5.991,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "217279": {
+      "id": "217279",
+      "title": "Romance",
+      "year": 2011,
+      "description": "While on an airplane, a traveller's spirit plunges into a dream world. Here, under the influence of the unknown, the logic of his desires prevails, and a romantic saga takes shape.",
+      "genres": [
+        "Animation"
+      ],
+      "rating": 6.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "225904": {
+      "id": "225904",
+      "title": "Drama",
+      "year": 2012,
+      "description": "The film starts in a village in Mandya where two youngsters Venkatesha and Sathish, who have failed their pre-degree courses seven times, create problems. Nandini, an ultra-modern girl comes to the village and attracts Venkatesha, who is prepared to do anything for pleasing the girl. Both Venkatesha and Sathish follow Nandini to Mysore, where she is pursuing studies. A strict principal of the college humiliates Nandini when she crosses the limits. Meanwhile, the principal gets murdered and a police officer suspects Venkatesha and Nandini to be behind this murder. There is a lot of confusion when it is revealed that Nandini is the daughter of a Dubai-based don, who is trying to kill a Mangalore-based don. What happens in the end is revealed in an interesting climax.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "rating": 6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "239622": {
+      "id": "239622",
+      "title": "Thriller",
+      "year": 1979,
+      "description": "What happens after the curtain falls on the death of Mimi, tragic heroine of Puccini's La boheme. In Thriller, Mimi teams up with the opera's comic heroine Musetta to investigate her own death.",
+      "genres": [
+        "Mystery"
+      ],
+      "rating": 6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "260342": {
+      "id": "260342",
+      "title": "Black Comedy",
+      "year": 2014,
+      "description": "Detective Johnny Du was smart and agile but his height of 5 feet 4 has hindered him from joining the G4 protection detail for the Chief Executive. His sassy girlfriend Angel bullied him all the time, leaving him depressed at work and at home. His helplessness attracted Vincent, the Devil Prince and Jim, the Angel to fight for his soul.",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 5.6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "26338": {
+      "id": "26338",
+      "title": "Romance",
+      "year": 1999,
+      "description": "Frustrated by the lack of intimacy in her relationship, a young schoolteacher goes through a series of intimidating and often violent sexual partners.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 5.4,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "2661": {
+      "id": "2661",
+      "title": "Batman",
+      "year": 1966,
+      "description": "The Dynamic Duo faces four super-villains who plan to hold the world for ransom with the help of a secret invention that instantly dehydrates people.",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 6.4,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "268": {
+      "id": "268",
+      "title": "Batman",
+      "year": 1989,
+      "description": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Crime"
+      ],
+      "rating": 7.228,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "272": {
+      "id": "272",
+      "title": "Batman Begins",
+      "year": 2005,
+      "description": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Action"
+      ],
+      "rating": 7.721,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "273566": {
+      "id": "273566",
+      "title": "Latham Entertainment Presents: An All New Comedy Experience",
+      "year": 2003,
+      "description": "The stand-up comedy concert film Latham Entertainment Presents features a handful of African-American comedians including D.L. Hughley, Bruce Bruce, Earthquake, and Rickey Smiley.",
+      "genres": [
+        "Comedy",
+        "Documentary",
+        "TV Movie"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "278159": {
+      "id": "278159",
+      "title": "Uppukandam Brothers Back In Action",
+      "year": 2011,
+      "description": "",
+      "genres": [
+        "Action"
+      ],
+      "rating": 4,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "282149": {
+      "id": "282149",
+      "title": "Marvellous Reversing",
+      "year": 1905,
+      "description": "A trick film using the reverse effect.",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 6.8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "282494": {
+      "id": "282494",
+      "title": "Romance",
+      "year": 1988,
+      "description": "After a man dies under mysterious circumstances, his girlfriend and his gay lover deal with his death in different ways.",
+      "genres": null,
+      "rating": 4.2,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "282729": {
+      "id": "282729",
+      "title": "Dramatic Passion of Algabert and Elisberth of Rodembourg",
+      "year": 1912,
+      "description": "Prince Algabert, upholding the traditions of his forefathers, wages a ceaseless feud against the house of Rodembourg, whose reigning lord has one daughter, Elisabeth. One day, the Princess Elisabeth is captured by Algabert's vassals and, forgetful of feuds and quarrels, the Prince falls under the spell of her beauty. Prince Algabert, having released the Princess, goes to her father and begs for her hand, which is, however, haughtily refused. So the breach between the two houses widens. Elisabeth decides to take the veil. On the day of her renunciation Algabert makes an ineffectual attempt to see her. Then, in despair, he provokes the Rodembourgs. He meets them single-handed in the convent cloister and receives his death stroke. Elisabeth till the day of her death mourns her lover and daily tends his grave.",
+      "genres": [
+        "Romance",
+        "History"
+      ],
+      "rating": 4.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "28536": {
+      "id": "28536",
+      "title": "The Blancheville Monster",
+      "year": 1963,
+      "description": "The beautiful young daughter of a crazed count fears that she will fall victim to the family curse - to be sacrificed to fulfill an ancient family legend.",
+      "genres": [
+        "Horror"
+      ],
+      "rating": 5.4,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "299537": {
+      "id": "299537",
+      "title": "Captain Marvel",
+      "year": 2019,
+      "description": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "rating": 6.785,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "299850": {
+      "id": "299850",
+      "title": "Horror in Happy Swamp",
+      "year": 1995,
+      "description": "A grotesque story about a polluted area where gas leaking from a swamp causes noses to drop off.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "301325": {
+      "id": "301325",
+      "title": "#Horror",
+      "year": 2015,
+      "description": "Inspired by actual events, a group of 12 year old girls face a night of horror when the compulsive addiction of an online social media game turns a moment of cyber bullying into a night of insanity.",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 3.6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "307402": {
+      "id": "307402",
+      "title": "Romance",
+      "year": 1983,
+      "description": "British based Mr. and Mrs. Roy are thrilled when their son announces that he is going to marry a Caucasian woman. Soon they are blessed when a daughter, Sonia, is born. Tragically, their son passes away, leaving them heartbroken.  Sonia grows up under her mother's strict control and guidance, and the love of her grandparents, who encourage her to visit India, which she does. When she returns, she announces that she has met her soul-mate in Amar, who she is going to invite to Britain, where they will marry.  Description provided by Wikipedia Article: Romance (1983 film)",
+      "genres": [
+        "Romance"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "324849": {
+      "id": "324849",
+      "title": "The Lego Batman Movie",
+      "year": 2017,
+      "description": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+      "genres": [
+        "Animation",
+        "Action",
+        "Comedy",
+        "Family"
+      ],
+      "rating": 7.235,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "326591": {
+      "id": "326591",
+      "title": "Hollywood between Paranoia and Sci-Fi: The Power of Myth",
+      "year": 2011,
+      "description": "Gives insight into the creators mindset and how they culled from real life events to create some of the biggest sci-fi films of all time.",
+      "genres": [
+        "Documentary",
+        "TV Movie"
+      ],
+      "rating": 5.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "330459": {
+      "id": "330459",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016,
+      "description": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "rating": 7.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "337045": {
+      "id": "337045",
+      "title": "Thriller Restaurant",
+      "year": 2010,
+      "description": "At the spooky western styled mansion turned restaurant \"Thriller Restaurant,\" Kuroka and Ryu disappear. After their disappearance others start to disappear at the restaurant. Rumors soon start that the devil himself is responsible for the missing persons.",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "rating": 6.1,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "348350": {
+      "id": "348350",
+      "title": "Solo: A Star Wars Story",
+      "year": 2018,
+      "description": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "rating": 6.557,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "351016": {
+      "id": "351016",
+      "title": "Romance",
+      "year": 1932,
+      "description": "A Terrytoons cartoon released 15 May 1932.",
+      "genres": [
+        "Animation"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "35595": {
+      "id": "35595",
+      "title": "Dave Chappelle: HBO Comedy Half-Hour",
+      "year": 1998,
+      "description": "Dave gets his own HBO special, filmed in San Francisco",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 6.8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "363859": {
+      "id": "363859",
+      "title": "Hyperdimension Neptunia The Animation: The Eternity (True End) Promised",
+      "year": 2014,
+      "description": "Unaired episode 13 of Choujigen Game Neptune: The Animation, included in the 7th BD/DVD volume.",
+      "genres": null,
+      "rating": 4,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "364": {
+      "id": "364",
+      "title": "Batman Returns",
+      "year": 1992,
+      "description": "The monstrous Penguin, who dwells in the sewers beneath Gotham, joins up with corrupt mayoral candidate Max Shreck to topple the Batman once and for all. But when Shreck's timid assistant Selina Kyle finds out, and Shreck tries to kill her, she's transformed into the sexy Catwoman. She teams up with the Penguin and Shreck to destroy Batman, but sparks fly unexpectedly when she confronts the caped crusader.",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "rating": 6.945,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "365435": {
+      "id": "365435",
+      "title": "The Usedom Thriller: Mörderhus",
+      "year": 2014,
+      "description": "Former public prosecutor Karin Lossow is released from prison after several years in prison. She had once shot her husband with her daughter Julia's service weapon because he had slept with another woman. To the surprise of her probation officer and her daughter, she does not move into a new apartment in Rostock as planned, but returns to her home in Usedom in the \"Mörderhus\". Not only to the displeasure of her daughter, who has not yet been able to forgive her mother for what she did. Karin has to put up with derogatory looks and comments from the islanders. She herself sees Usedom as a second chance for her life and soon has a good connection to her environmentally conscious granddaughter Sophie, who supports her with legal tips during a protest. Karin also finds work in a bison enclosure, takes care of the animals and controls entry. Julia has to clear up the death of Thomas Krenzlin. The young paraplegic man is found drowned in the water.",
+      "genres": [
+        "Crime"
+      ],
+      "rating": 5.25,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "36565": {
+      "id": "36565",
+      "title": "A Swedish Midsummer Sex Comedy",
+      "year": 2009,
+      "description": "A beautiful waterfront house, a Swedish flag fluttering in the wind. A sailboat tied to the wooden deck below. This is the setting of the friends' annual Midsummer celebrations. The friends are gathered at Emil's family house and the herring lunch, sauna, games and compulsory skinny dipping are as always prepared. Expectations are set - Micke worries about his highly pregnant wife and the fastest way to the nearest hospital. Eva is looking for some distraction from her recent split with Patrick and Sam. Emil's college buddy from the States arrives with his own expectations of Swedish sin. Wannabe singer-songwriter Anders hasn't told his wannabe pregnant girlfriend Maria about his low sperm count and hopes to solve the problem over the weekend. To top it off Emil's surprise seems to lift the party to unprecedented heights. If everything had gone according to plan that is.",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 3.9,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "372804": {
+      "id": "372804",
+      "title": "Sci Fi Sol",
+      "year": 2012,
+      "description": "A video game designer creates a rock star that comes to life and begins taking over the world with his music.",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Music"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "378137": {
+      "id": "378137",
+      "title": "Hannibal Buress: Comedy Camisado",
+      "year": 2016,
+      "description": "He's a kamikaze gambler. A one-arm cuddler. And if his fly is down, so be it. A night of sly riffs and slow burns.",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 6.2,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "379110": {
+      "id": "379110",
+      "title": "This Is Comedy",
+      "year": 2014,
+      "description": "A documentary about the comedy director and producer Judd Apatow.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "382190": {
+      "id": "382190",
+      "title": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+      "year": 2016,
+      "description": "Ash meets the Mythical Pokémon Volcanion when it crashes down from the sky, creating a cloud of dust—and a mysterious force binds the two of them together! Volcanion despises humans and tries to get away, but it’s forced to drag Ash along as it continues its rescue mission. They arrive in a city of cogs and gears, where a corrupt official has stolen the ultimate invention: the Artificial Pokémon Magearna, created 500 years ago. He plans to use its mysterious power to take control of this mechanical kingdom! Can Ash and Volcanion work together to rescue Magearna? One of the greatest battles in Pokémon history is about to unfold!",
+      "genres": [
+        "Family",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "rating": 6.7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "382675": {
+      "id": "382675",
+      "title": "Romance",
+      "year": 2004,
+      "description": "A story about love and hope of three elderly woman wit a totally different life experience at the end of their journey of life.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "rating": 6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "38614": {
+      "id": "38614",
+      "title": "A Romantic Comedy",
+      "year": 2010,
+      "description": "Bored with her life and inspired by a friend's wedding, Esra quits her job and dumps her boyfriend, leading to a series of romantic misadventures.",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "rating": 4.7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "396561": {
+      "id": "396561",
+      "title": "Platinum Comedy Series: Steve Harvey - One Man",
+      "year": 2004,
+      "description": "Comic and actor Steve Harvey -- star of his own long-running sitcom on the WB network and one of the headlining performers in Spike Lee's concert film The Original Kings of Comedy -- takes the stage in this comedy special originally produced for the HBO premium cable network. Steve Harvey: One Man won a 1999 Vision Award, a prize for television programming that celebrates cultural diversity in America.",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "402075": {
+      "id": "402075",
+      "title": "Persona4 the ANIMATION -The Factor of Hope-",
+      "year": 2012,
+      "description": "A compilation movie that recaps the entire PERSONA 4 the Animation TV series with new cuts as well as the unaired “True End Episode” that was included on the 10th Blu-ray Disc/DVD volume.",
+      "genres": [
+        "Animation",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Mystery"
+      ],
+      "rating": 9,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "402285": {
+      "id": "402285",
+      "title": "Super Batman \u0026 Mazinger V",
+      "year": 1990,
+      "description": "The Andro planet is ruled by the witch Rinka. The Zzanga knight comes to earth to reclaim the Andro planet. He tries to find the robot with supernatural powers which the scientists of Andro had once built. Rinka sends her henchmen Kats and Kobra to capture Zzanga but with the help of Betaman, Jebi and some kids, he is able to find the robot in a cave. He returns to Andro and defeats Rinka with the robot.",
+      "genres": [
+        "Action"
+      ],
+      "rating": 6.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "406139": {
+      "id": "406139",
+      "title": "Thriller",
+      "year": 2009,
+      "description": "Thrilller is a concoction of horror and comedy. A must watch for youth..!! The movie is as scary as Evil dead and as comedy as Bachelor's party..",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "rating": 5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "40690": {
+      "id": "40690",
+      "title": "Classic Albums: Black Sabbath - Paranoid",
+      "year": 2010,
+      "description": "The story of how the classic album \"Paranoid\" was made, with stories from band members to those who were influenced by its content, form and vitality.  Paranoid is the second studio album by English rock band Black Sabbath. Released in September 1970, it was the band's only LP to top the UK Albums Chart until the release of 13 in 2013. Paranoid contains several of the band's signature songs, including \"Iron Man\", \"War Pigs\" and the title track, which was the band's only Top 20 hit, reaching number 4 in the UK charts. It is often regarded as one of the most quintessential and influential albums in heavy metal history.",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "rating": 7.1,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "409119": {
+      "id": "409119",
+      "title": "Bahia SCI-FI",
+      "year": 2015,
+      "description": "Since the 1970s, Roberto Pires has militated against the use of nuclear energy. For that, he went looking for the biggest Brazilian name in this subject, César Lattes, professor of Nuclear Physics at UNICAMP. Believing that nuclear energy could, in the long run, extinguish human life. With the collaboration of Orlando Senna, he writes the screenplay for the film “Abrigo Nuclear”, an ambitious production, science fiction film entirely produced and shot in Bahia. With little money, armed with his creative ability, Roberto builds a 'spaceship' and a studio in the backyard of his house. He calls children, relatives and friends and begins production on “Nuclear Shelter”, which is released in 1981.\r With statements by Orlando Senna, Laura Pires, Nonato Freire, among others, the documentary \"Bahia SCI-FI\" intends to explore the universe that surrounded Roberto Pires, Bahia and the possible nuclear war of the late 1970s and early 1970s. 1980.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "414": {
+      "id": "414",
+      "title": "Batman Forever",
+      "year": 1995,
+      "description": "Batman faces off against two foes: the schizophrenic, horribly scarred former District Attorney Harvey Dent, aka Two-Face, and the Riddler, a disgruntled ex-Wayne Enterprises inventor seeking revenge against his former employer by unleashing his brain-sucking weapon on Gotham City's residents. As the caped crusader also copes with tortured memories of his parents' murder, he has a new romance, with psychologist Chase Meridian.",
+      "genres": [
+        "Action",
+        "Crime",
+        "Fantasy"
+      ],
+      "rating": 5.453,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "414131": {
+      "id": "414131",
+      "title": "Cobra the Animation: The Psycho-Gun",
+      "year": 2008,
+      "description": "When Utopia More discovers an ancient record that holds the key to unlocking the secrets of the universe, she becomes the target of the ruthless Gypsy Doc of the Pirate Guild. Utopia finds herself saved by the easy-going yet legendary space pirate, Cobra, whose custom made Psychogun makes him a force to be reckoned with. Together, the two of them attempt to stop Gypsy Doc (along with Cobra's revived arch-nemesis, Crystal Boy) and his efforts to steal the record and use its secrets to rule the universe.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Science Fiction"
+      ],
+      "rating": 6.3,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "414906": {
+      "id": "414906",
+      "title": "The Batman",
+      "year": 2022,
+      "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 7.7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "415": {
+      "id": "415",
+      "title": "Batman \u0026 Robin",
+      "year": 1997,
+      "description": "Batman and his sidekick Robin attempt to the foil the sinister schemes of a deranged set of new villains, most notably the melancholy Mr. Freeze, who wants to make Gotham City into an arctic region, and the sultry Poison Ivy, a botanical femme fatale. As the Dynamic Duo contend with these bad guys, a third hero, Batgirl, joins the ranks of the city's crime-fighters.",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "rating": 4.386,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "42190": {
+      "id": "42190",
+      "title": "The Classic",
+      "year": 2003,
+      "description": "Ji-hae's friend is having problems expressing her feelings to the boy she loves, so she asks Ji-hae to write e-mails to him in her name. As the boy falls in love with her letters, Ji-hae discovers the story of her mother's romance which is remarkably similar to her own circumstances.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "426202": {
+      "id": "426202",
+      "title": "Fat Legs",
+      "year": 2016,
+      "description": "Anna travels to Paris following John, unintentionally causing tension between her best friend Jean and his partner Philippe.",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 4,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "426777": {
+      "id": "426777",
+      "title": "Action",
+      "year": 1921,
+      "description": "Three Outlaws came across a stranded baby and must decide to save the child or escape from the law.",
+      "genres": [
+        "Western"
+      ],
+      "rating": 4,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "432130": {
+      "id": "432130",
+      "title": "Ao Oni The Animation",
+      "year": 2017,
+      "description": "Based on the horror game Ao Oni by noprops.  Five members of the cultural anthropology club at an old western-style school are trying to come up with ideas for their presentation at the school's culture festival, when they find a collection of folk tales gathered by a student in their club 40 years ago. They realize that the mysterious Bellflower Oni that appears in the folk tales may be the basis for the popular free game Ao Oni, and decide to make that their theme. They manage to make contact with the author of the Ao Oni game, but he dies mysteriously soon afterward. The club members become suspicious at the author's death and began to investigate on their own, but encounter a secret they never should have touched: a secret underground prison in the school.  For some reason all the fire doors at the school are locked, and they are trapped in the school. The sound of the strange footsteps they hear soon turn to their screams...A new tragedy of the Ao Oni is about to begin.",
+      "genres": [
+        "Horror",
+        "Animation"
+      ],
+      "rating": 4.8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "441707": {
+      "id": "441707",
+      "title": "Space Travelers: The Animation",
+      "year": 2000,
+      "description": "New Cosmic Century 038, humanity is suddenly attacked by an unknown alien civilization known as the Orbital Ring System. Soon, the entire Earth Civilization Sphere has been cut off from the space colonies, and is under the control of the ORS.",
+      "genres": [
+        "Science Fiction",
+        "Animation",
+        "Action",
+        "Comedy"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "443985": {
+      "id": "443985",
+      "title": "Marvelous Stunts Of Kung Fu",
+      "year": 1979,
+      "description": "The stars are cast as a gorgeous woman, a mystic and a kung-fu expert.  They team up to form a united front when an insidious empire threatens the well-being of the land they love.",
+      "genres": null,
+      "rating": 5.4,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "44424": {
+      "id": "44424",
+      "title": "A Chinese Ghost Story: The Tsui Hark Animation",
+      "year": 1997,
+      "description": "A young man falls in love with a ghost and must avoid a variety of ghostbusters out to eliminate her and each other.",
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 6.1,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "44493": {
+      "id": "44493",
+      "title": "Horror",
+      "year": 2003,
+      "description": "This visually arresting chiller concerns a group of runaway teens that escape from a drug rehab and encounter demonic forces in a rural farmhouse.",
+      "genres": [
+        "Horror"
+      ],
+      "rating": 4.2,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "455587": {
+      "id": "455587",
+      "title": "Little Dramas",
+      "year": 1960,
+      "description": "Two stories showcasing the problems children face while growing up.",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "46651": {
+      "id": "46651",
+      "title": "Romance",
+      "year": 2008,
+      "description": "During a remake of the play Tristan and Isolde, actors Pedro and Ana fall in love. While the characters live an idealized love, the interpreters are living a true story, which they try to spice it up with the intensity of the fiction.",
+      "genres": [
+        "Romance"
+      ],
+      "rating": 7.4,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "466610": {
+      "id": "466610",
+      "title": "Gakuen Handsome The Animation",
+      "year": 2015,
+      "description": "The school love story is set at Baramon High School, a private boys' school for the prefecture's most elite. The protagonist is a seventeen year old boy who transfers into the school and meets various major players on campus, such as the outlaw teacher, the soccer captain, and a childhood friend whom the protagonist has not seen for seven years. The school presents opportunities for friendship, love and conflict, and changes are now bound to happen in the main character's life.",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "466686": {
+      "id": "466686",
+      "title": "Sci-Fi West Saga Starzinger",
+      "year": 1979,
+      "description": "In a sci-fi adaptation of the Chinese novel Journey to the West, Princess Aurora and her cyborg companions Kugo, Djorgo, and Hakka must travel to the planet of the Great King in order to restore the Galaxy Energy and return peace to the universe. On their journey, they encounter a planet decimated from attacks by space monsters, against whom the last survivors now seek vengeance.",
+      "genres": [
+        "Science Fiction",
+        "Animation",
+        "Adventure"
+      ],
+      "rating": 5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "47338": {
+      "id": "47338",
+      "title": "Detective Conan Drama Special 2: Confrontation With the Men in Black",
+      "year": 2007,
+      "description": "Shinichi Kudo returns as the young Conan to investigate a murderous letter sent to a beauty pageant winner who demands affection.",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "TV Movie"
+      ],
+      "rating": 7.3,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "485942": {
+      "id": "485942",
+      "title": "Batman Ninja",
+      "year": 2018,
+      "description": "Batman, along with many of his allies and adversaries, finds himself transported to feudal Japan by Gorilla Grodd's time displacement machine.",
+      "genres": [
+        "Animation",
+        "Action",
+        "Science Fiction"
+      ],
+      "rating": 5.855,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    },
+    "488891": {
+      "id": "488891",
+      "title": "Horror",
+      "year": 1969,
+      "description": "After an eight-month stay in a mental hospital, a tormented man comes home to live with his sister; but a mysterious boarder may be trying to kill him.",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "rating": 10,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "494133": {
+      "id": "494133",
+      "title": "Deformity Sci-Fi",
+      "year": 2013,
+      "description": "As the Martians are about to land on Earth, a young man in a small Chinese town spends the whole day making trouble with his fellow hoodlums. With more and more people returning from the big city rich, he decides to go there to wage battle.",
+      "genres": [
+        "Science Fiction"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "506706": {
+      "id": "506706",
+      "title": "Romance",
+      "year": 2004,
+      "description": "Nymphs and Satyrs are conjured back into activity when poetry is recited and fluffy clouds sail above the contemporary, domestic landscape.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "522360": {
+      "id": "522360",
+      "title": "Dykes, Camera, Action!",
+      "year": 2018,
+      "description": "The film examines the ways that women directors have contributed to this genre and emphasizes the role that the media play in representation of sexuality and gender, underscoring the power that film has to shape our perceptions of one another. Visually, this documentary comes to life on screen through compelling and intimate original interviews, intercut with emotionally-charged archival footage, photographs, ephemera, inspired music, and film clips.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 0.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "522640": {
+      "id": "522640",
+      "title": "Creatures from Star Wars",
+      "year": 2006,
+      "description": "",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "52416": {
+      "id": "52416",
+      "title": "4 Horror Tales: Roommates",
+      "year": 2006,
+      "description": "At a prep school, a secret horror begins to unfold as the students begin to die.",
+      "genres": [
+        "Horror"
+      ],
+      "rating": 5.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "525123": {
+      "id": "525123",
+      "title": "Marvellous Bavaria",
+      "year": 2017,
+      "description": "Bayern Sagenhaft is a documentary about the German state of Bavaria and its customs and traditions.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "53168": {
+      "id": "53168",
+      "title": "King of Comedy",
+      "year": 1999,
+      "description": "Wan Tin-Sau is an actor who cannot seem to catch a break, since his only professional jobs are limited to being a movie extra. As well as being an actor, he is also the head of his village's community center.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.389,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "53244": {
+      "id": "53244",
+      "title": "Sex Is Comedy",
+      "year": 2002,
+      "description": "A director struggles with a difficult sex scene between a young actor and actress who can't stand one another. Aided by her loyal assistant, she is hell-bent on getting the scene right without compromise.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 5.9,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "53310": {
+      "id": "53310",
+      "title": "Sci-fighters",
+      "year": 1996,
+      "description": "A renegade police officer tracks a rapist spreading a deadly virus around 2009 Boston.",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "rating": 4.9,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "53868": {
+      "id": "53868",
+      "title": "The Vault of Horror",
+      "year": 1973,
+      "description": "The sequel to Tales from the Crypt.  Five strangers trapped in a basement vault converse about their recurring nightmares. Their stories include vampires, bodily dismemberment, east Indian mysticism, an insurance scam, and an artist who kills by painting his victims' deaths.",
+      "genres": [
+        "Horror"
+      ],
+      "rating": 6.31,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "541100": {
+      "id": "541100",
+      "title": "Thriller",
+      "year": 2018,
+      "description": "Years after a childhood prank goes horribly wrong, a clique of South Central LA teens find themselves terrorized during Homecoming weekend by a killer hell-bent on revenge.",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "rating": 4.3,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "548251": {
+      "id": "548251",
+      "title": "Sci-Fi Visionaries",
+      "year": 2004,
+      "description": "Documentary which discusses Star Trek's great science fiction writers",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "561105": {
+      "id": "561105",
+      "title": "My Husband Is Marvelous",
+      "year": 1953,
+      "description": "A young journalist, Sylvia, has to interview a writer, Claude Chatel, whose success is due to his misogyny.",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 3.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "573648": {
+      "id": "573648",
+      "title": "Romantic Comedy",
+      "year": 2020,
+      "description": "This documentary goes beneath the surface of our favorite films, seeking to better understand the way we view love, relationships, and romance. From clumsy meet cutes to rain-soaked declarations of love, these films reflect our experiences but are often just as problematic as they are comforting. Helped by a chorus of critics, actors, and filmmakers, and original songs by her band Summer Camp, director Elizabeth Sankey embarks on a journey of investigation and self-discovery.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "579800": {
+      "id": "579800",
+      "title": "Thriller Family",
+      "year": 0,
+      "description": "The adventures of an unusual dog named Thriller, who, thanks to a miracle capsule stolen from an underground laboratory, can read human thoughts.",
+      "genres": [
+        "Family"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "591360": {
+      "id": "591360",
+      "title": "The Human Comedy",
+      "year": 2019,
+      "description": "Penniless and desperate for money, a married couple and a fuerdai cook up a fake kidnap for ransom scheme among themselves.\r Married couple Pu Tong and Mi La are as ordinary as can be. When their employers default on their compensation, they are unable to pay rent. Yang Xiao Wei is a fuerdai \"second-generation rich\" who is unloved by his own father. Xiao Wei owes Ba Ye a substantial sum of money that he has no way of paying off.",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 6.7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "593690": {
+      "id": "593690",
+      "title": "drama",
+      "year": 0,
+      "description": "",
+      "genres": null,
+      "rating": 5.3,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "594069": {
+      "id": "594069",
+      "title": "The Wind. A Documentary Thriller",
+      "year": 2019,
+      "description": "In the Podhale region in Poland, the Halny wind blows several times a year in spring and in autumn, in cycles. It is unpredictable, so you never know if—and when—it will metamorphose into a destructive storm, transforming the picturesque mountain chains into a décor dominated by the savage performance of nature.",
+      "genres": [
+        "Documentary",
+        "Thriller"
+      ],
+      "rating": 4.7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "598237": {
+      "id": "598237",
+      "title": "Drama",
+      "year": 2019,
+      "description": "A small film about big sorrow",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "601980": {
+      "id": "601980",
+      "title": "Grisaia: Phantom Trigger the Animation",
+      "year": 2019,
+      "description": "Following the Heath Oslo incident, the existence of the US-Japanese anti-terror organization CIRS has become a matter of public knowledge. CIRS has been rebuilt from the ground up, and its most covert functions spun off to a new agency: SORD (Social Ops, Research \u0026 Development).  The goal of SORD is to train a new generation of operatives to defend the country against future threats. To that end, the organization has established a series of schools up and down the country. Mihama Academy, more-or-less left to rot after its abrupt closure, has been given new purpose as one such 'specialist training school'. It now entrusts the misfit girls who attend it with guns and live ammunition.  No matter how much life grinds them down, what future awaits these girls, who've themselves chosen the path of the gun?",
+      "genres": [
+        "Action",
+        "Animation"
+      ],
+      "rating": 6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "609681": {
+      "id": "609681",
+      "title": "The Marvels",
+      "year": 2023,
+      "description": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "rating": 5.94,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "624582": {
+      "id": "624582",
+      "title": "Love Action Drama",
+      "year": 2019,
+      "description": "Dineshan is in love with Shoba, but she insists he give up smoking and drinking before marriage. It’s easier said than done, but will love triumph?",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 6.1,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "625439": {
+      "id": "625439",
+      "title": "A Comedy in Front of the Station: University",
+      "year": 1965,
+      "description": "#13 in the Ekimae series of films. Set at Todai University, Professor Sakai (played by Frankie Sakai) mentors a group of university hopefuls. Cut to 25 years later, the students have each settled into their careers and cross paths with Professor Sakai's son, a P.E. teacher (also played by Sakai).",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "635687": {
+      "id": "635687",
+      "title": "Shinkansen Henkei Robo Shinkalion The Movie: The Marvelous Fast ALFA-X That Comes From the Future",
+      "year": 2019,
+      "description": "The new enemies, Nahane and Ohanefu, along with the mysterious new Giant Monstrous Beings appear from space to take over the Earth! Holding the key to these events is Shinkalion ALFA-X, which was secretly developed by the Ultra Evolution Institute...!? For Hayato and Team Shinkalion, who had been living in peace, the battle begins again.",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "rating": 6.8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "651984": {
+      "id": "651984",
+      "title": "Anita Classic Moment Live",
+      "year": 2004,
+      "description": "Compilation of Anita Mui's last eight performances, weeks before she passed away. Recorded on 6-11, 14-15 November 2003 at Hong Kong Coliseum.",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "rating": 8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "67183": {
+      "id": "67183",
+      "title": "Paganini Horror",
+      "year": 1989,
+      "description": "A female rock band acquires an infamous composition by Niccolò Paganini that was used in satanic rituals. When the band decides to record the song and film a video in Paganini's old mansion, the spirit of the deceased composer is summoned and the band unlocks a portal to Hell.",
+      "genres": [
+        "Horror",
+        "Music"
+      ],
+      "rating": 4.3,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "682548": {
+      "id": "682548",
+      "title": "Romance",
+      "year": 1920,
+      "description": "A young man planning to marry receives a cautionary tale from his bishop based on the sad tale of the bishop's own early romance.",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 9,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "69805": {
+      "id": "69805",
+      "title": "Sci-Fighter",
+      "year": 2004,
+      "description": "A well-meaning genius creates a virtual reality game that leaves his grandson trapped within when a virus invades. The boy's father (Don Wilson) enters the virtual fighting game in order to combat the virus and save his son before they're both trapped forever.",
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "rating": 3.6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "705894": {
+      "id": "705894",
+      "title": "Incubala of Animation",
+      "year": 2018,
+      "description": "A patchwork of the first animated movies from the collections of La Cinémathèque française : Stroboscopic Discs (1833), Zoetropes (since 1867), Reynaud's Praxinoscope (1878-1879), plates of Muybridge and Anschütz (1880-1890), an unseen Marey's chronophotography (1889), Chromolithographs films (since 1897), including one inspired by the second Georges Méliès' film, \"Une séance de prestidigitation\" (1896), with a photographic version, unseen until now.",
+      "genres": [
+        "Animation"
+      ],
+      "rating": 7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "706892": {
+      "id": "706892",
+      "title": "Nordic Noir - The Rise of Scandi Drama",
+      "year": 2014,
+      "description": "A documentary that investigates the phenomenon of Scandinavian crime drama and its worldwide success.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "712870": {
+      "id": "712870",
+      "title": "Uta Doki! Pop Classics Vol.1",
+      "year": 2007,
+      "description": "DVD release compiling performances from the Hello! Project show Uta Doki! Pop Classics.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "712874": {
+      "id": "712874",
+      "title": "Uta Doki! Pop Classics Vol.2",
+      "year": 2007,
+      "description": "DVD release compiling performances from the Hello! Project show Uta Doki! Pop Classics.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "712876": {
+      "id": "712876",
+      "title": "Uta Doki! Pop Classics Vol.3",
+      "year": 2007,
+      "description": "DVD release compiling performances from the Hello! Project show Uta Doki! Pop Classics.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "712877": {
+      "id": "712877",
+      "title": "Uta Doki! Pop Classics Vol.4",
+      "year": 2007,
+      "description": "DVD release compiling performances from the Hello! Project show Uta Doki! Pop Classics.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "712878": {
+      "id": "712878",
+      "title": "Uta Doki! Pop Classics Vol.5",
+      "year": 2007,
+      "description": "DVD release compiling performances from the Hello! Project show Uta Doki! Pop Classics.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "712885": {
+      "id": "712885",
+      "title": "Uta Doki! Pop Classics Vol.7",
+      "year": 2008,
+      "description": "DVD release compiling performances from the Hello! Project show Uta Doki! Pop Classics.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "712887": {
+      "id": "712887",
+      "title": "Uta Doki! Pop Classics Vol.8",
+      "year": 2008,
+      "description": "DVD release compiling performances from the Hello! Project show Uta Doki! Pop Classics.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "712891": {
+      "id": "712891",
+      "title": "Uta Doki! Pop Classics Vol.9",
+      "year": 2008,
+      "description": "DVD release compiling performances from the Hello! Project show Uta Doki! Pop Classics.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "712893": {
+      "id": "712893",
+      "title": "Uta Doki! Pop Classics Vol.10",
+      "year": 2008,
+      "description": "DVD release compiling performances from the Hello! Project show Uta Doki! Pop Classics.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "712894": {
+      "id": "712894",
+      "title": "Uta Doki! Pop Classics Vol.11",
+      "year": 2008,
+      "description": "DVD release compiling performances from the Hello! Project show Uta Doki! Pop Classics.",
+      "genres": null,
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "712948": {
+      "id": "712948",
+      "title": "Romance",
+      "year": 2019,
+      "description": "In 1999 the old sport of skiing had just been given new life, and Level 1 was conceived to document its progress into the future. With twenty years in the rearview mirror it still stands true- new things never get old. Romance, the final chapter of annual films by Level 1, captures a modern-day Golden Age in skiing. Featuring a generation of talent that came of age in the best time to ever do it. Tweaking the formula, tweaking the grab, and in it for nothing but the love.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "713241": {
+      "id": "713241",
+      "title": "Quiz Magic Academy: The Original Animation",
+      "year": 2008,
+      "description": "There is a magical academy that is located on a floating island in the sky. This is about the students of one of the academy's classes, who's only chance not to fail the semester is to win a competition where they must show off their magic skills.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "713246": {
+      "id": "713246",
+      "title": "Quiz Magic Academy: The Original Animation 2",
+      "year": 2010,
+      "description": "Following the destruction of the magical floating device, the Magic Academy falls to earth, but unfortunately lands on and breaks a demon seal, releasing hundreds of ancient demons into the forest around the academy. The teachers are barely keeping the demons away and are desperately searching for the pieces of the floating device, so to earn more magic stones, all of the students from Amelia's class decide to leave the academy (even though they were told not to) to find the missing pieces.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "728954": {
+      "id": "728954",
+      "title": "Seth MacFarlane's Cavalcade of Cartoon Comedy",
+      "year": 2008,
+      "description": "From the creator of Family Guy and the co-creator of American Dad! comes a brand-new animated series of pop culture parodies, skewered stories, and fabulously filthy fun nuggets. Uncensored, uninhibited and unbelievably hilarious, Seth MacFarlane's Cavalcade of Cartoon Comedy is brimming with the kind of raunchy, twisted humor you can't see on television no matter how hard you try. So sit back, veg out and enjoy the show. The possibilities are endless...and so are the laughs!",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 3.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:39+07:00"
+    },
+    "740701": {
+      "id": "740701",
+      "title": "Thriller",
+      "year": 2020,
+      "description": "An intriguing drama of an unidentified stranger terrorising a girl",
+      "genres": null,
+      "rating": 1,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "741917": {
+      "id": "741917",
+      "title": "Happy Horror Days",
+      "year": 2020,
+      "description": "Voices...HORRIFIC Content...Right Here In The Holiday Of Horrors.",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Mystery",
+        "Thriller",
+        "Fantasy"
+      ],
+      "rating": 7.2,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "750963": {
+      "id": "750963",
+      "title": "Classic",
+      "year": 2019,
+      "description": "People from all over the world gamble on when the ice in the Tanana River melts. This hundred year old tradition in the city of Nenana, Alaska, is an important source for the small town of about 500. It's also a point of local pride and amusement.",
+      "genres": [
+        "Documentary",
+        "Comedy"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "757907": {
+      "id": "757907",
+      "title": "Hyperdimension Neptunia The Animation: Neptune’s Summer Vacation",
+      "year": 2019,
+      "description": "The Goddesses and their sisters take a camping trip to \"My Summer Vacation Mountain.\" When the sisters uncover another dimension at the shrine gates, they meet an older version of Neptune. Will they find their way back home, and, more importantly, are two Neps better than one?",
+      "genres": [
+        "Animation",
+        "Science Fiction"
+      ],
+      "rating": 7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "768334": {
+      "id": "768334",
+      "title": "A Classic Horror Story",
+      "year": 2021,
+      "description": "Five people travelling by camper crash into a tree. When they recover, the road they were driving on has been replaced by an impenetrable forest and a wooden house.",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "rating": 5.852,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "77412": {
+      "id": "77412",
+      "title": "Romance",
+      "year": 1930,
+      "description": "A beautiful opera star kept by a rich older man falls in love with a young clergyman.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 6.2,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "779019": {
+      "id": "779019",
+      "title": "Grisaia: Phantom Trigger the Animation - Stargazer",
+      "year": 2020,
+      "description": "While Rena and Maki recover from their injuries, the other SORD members jet off overseas for a school trip. Within moments of their arrival, though, the Mihama gang are pulled into a manhunt for a SORD deserter, assisted by student Sylvia and Velvet of St. Aile's International School. Tohka's the star of the show this time round, but she's wrestling with her own issues - old memories of her parents, and a promise to a friend that she wasn't able to keep...",
+      "genres": [
+        "Animation",
+        "Action"
+      ],
+      "rating": 6.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "781056": {
+      "id": "781056",
+      "title": "Drama",
+      "year": 2015,
+      "description": "First part of the trilogy of metalanguage. A short film within a short film.",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 9.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "782054": {
+      "id": "782054",
+      "title": "Doraemon the Movie: Nobita's Little Star Wars 2021",
+      "year": 2022,
+      "description": "During summer vacation Nobita picks up a small rocket containing Papi, a palm-sized alien president escaping rebels on his home planet Pirika.",
+      "genres": [
+        "Animation",
+        "Science Fiction",
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Comedy"
+      ],
+      "rating": 6.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "789545": {
+      "id": "789545",
+      "title": "Discovering Sci Fi on Film",
+      "year": 2021,
+      "description": "Ian Nathan, Neil Norman and Stephen Armstrong run through their top 25 sci-films of the last century, including The Matrix and Planet of the Apes.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 9,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "79168": {
+      "id": "79168",
+      "title": "Drama",
+      "year": 2010,
+      "description": "Three theater students, influenced by a professor and French theorist Antonin Artaud's acting technique, begin to experiment with their own lives, searching for real emotions and situations to bring onto the stage. Their obsession with becoming better actors leads them to their darkest sides, surpassing boundaries that neither they nor their teachers could ever imagine.",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 4.8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "802477": {
+      "id": "802477",
+      "title": "Still Alive – The Drama on Mount Kenya",
+      "year": 2025,
+      "description": "Still Alive - The Drama on Mount Kenya is a gripping docudrama that recounts a legendary rescue operation on Mount Kenya in Africa in 1970.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:41+07:00"
+    },
+    "803071": {
+      "id": "803071",
+      "title": "Japanese Independent Animation, Volume 2",
+      "year": 2014,
+      "description": "Astonishing, mysterious, eccentric, adorable, melancholic, sensual and delightful - the Volume 2 of the weird and fascinating world of Japanese independent animation which has been flourishing and stronger than ever.",
+      "genres": [
+        "Animation"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "818194": {
+      "id": "818194",
+      "title": "Animation",
+      "year": 1979,
+      "description": "a film about animation by Vince Collins",
+      "genres": [
+        "Animation"
+      ],
+      "rating": 8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "82861": {
+      "id": "82861",
+      "title": "Classic Albums: Queen - The Making of A Night at the Opera",
+      "year": 2006,
+      "description": "If ever there was an album worthy of inclusion in Eagle Vision’s Classic Albums series it is Queen’s breakout release A Night At The Opera. Released in 1975, this was not only the band’s first platinum album, but also the one that catapulted them into the spotlight as one of the biggest rock acts in the world. Now for the first time, fans are offered an in-depth look at one of rock music’s seminal records.",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "rating": 6.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "845584": {
+      "id": "845584",
+      "title": "Horror!!!",
+      "year": 1964,
+      "description": "Horror stars are interviewed about their craft and films. Included on Severin Films' \"Eurocrypt of Christopher Lee Vol. 1\" collection.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 1,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "851826": {
+      "id": "851826",
+      "title": "Romance",
+      "year": 2002,
+      "description": "Ropey Erotica.",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "rating": 2,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "859496": {
+      "id": "859496",
+      "title": "The Marvelous Kung Fu",
+      "year": 1979,
+      "description": "A troupe of comedians, including midgets, provide entertainment and kung fu trouble for the villains.",
+      "genres": null,
+      "rating": 5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "870038": {
+      "id": "870038",
+      "title": "Otome wa Boku ni Koishiteru: Trinkle Stars The Animation",
+      "year": 2021,
+      "description": "",
+      "genres": [
+        "Animation"
+      ],
+      "rating": 6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "873674": {
+      "id": "873674",
+      "title": "The Sleep: Survival Horror (Part One)",
+      "year": 2022,
+      "description": "A group of friends are put through a supernatural inter-dimensional experiment on Halloween Night where they must survive real-life horrors as well as those unlocked deep within their minds.",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": 4.1,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "917440": {
+      "id": "917440",
+      "title": "Romance",
+      "year": 2021,
+      "description": "Despite having the scar that marks the domesticated, Juliana has to keep her freedom. Is romance the ultimate trap?",
+      "genres": [
+        "Romance"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:44+07:00"
+    },
+    "92060": {
+      "id": "92060",
+      "title": "Michael Jackson's Thriller",
+      "year": 1983,
+      "description": "A night at the movies turns terrifying when Michael and his date are attacked by zombies. Released at the height of Thriller’s success, the short film redefined the music video, broke racial barriers, and became the first inducted into the U.S. National Film Registry.",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Music"
+      ],
+      "rating": 8.215,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:47+07:00"
+    },
+    "931038": {
+      "id": "931038",
+      "title": "Action",
+      "year": 2022,
+      "description": "On a film set, there are always unforeseen events. Some days, it's all there is. And sometimes it's even worse.",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 7.3,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "935766": {
+      "id": "935766",
+      "title": "Chuck Billy and The Marvelous Guava Tree",
+      "year": 2025,
+      "description": "Chuck Billy has spent his life picking guavas from Jed’s guava tree. But now that Dr. Agripino is going to build a road that will take down the tree, Chuck and his friends are going to do everything they can to stop it.",
+      "genres": [
+        "Family",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 7.1,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "942367": {
+      "id": "942367",
+      "title": "Horror",
+      "year": 2001,
+      "description": "A Bruno Bozzetto Cartoon",
+      "genres": [
+        "Horror",
+        "Animation"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:42+07:00"
+    },
+    "95667": {
+      "id": "95667",
+      "title": "Night of the Living Dead: Re-Animation",
+      "year": 2012,
+      "description": "After inheriting the family mortuary, a pyrophobic mortician accidentally exposes hundreds of un-cremated bodies to toxic medical waste. As the corpses re-animate, the mortician's inheritance-seeking younger brother unexpectantly shows up, stumbling upon a full zombie outbreak!",
+      "genres": [
+        "Horror",
+        "Action",
+        "Comedy"
+      ],
+      "rating": 6.119,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:45+07:00"
+    },
+    "956879": {
+      "id": "956879",
+      "title": "Star Wars Kid: The Rise of the Digital Shadows",
+      "year": 2022,
+      "description": "Ghyslain Raza, better known as the “Star Wars Kid,” breaks his silence to reflect on our hunger for content and the right to be forgotten in the digital age.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:49+07:00"
+    },
+    "95758": {
+      "id": "95758",
+      "title": "The Sci-Fi Boys",
+      "year": 2006,
+      "description": "Legendary all-stars of cinema bring to life the evolution of science-fiction and special effects films from the wild and funny days of B-movies to blockbusters that have captured the world's imagination. This is the story of the Sci-Fi Boys, who started out as kids making amateur movies inspired by Forrest J Ackerman's FAMOUS MONSTERS magazine and grew up to take Hollywood by storm, inventing the art and technology for filming anything the mind can dream.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "962971": {
+      "id": "962971",
+      "title": "Legendary in Action!",
+      "year": 2022,
+      "description": "Bill \"Tiger\" wants to relaunch his directorial career with a remake of a wuxia and casts Dragon Tin, the now-ageing star of the original. But nothing goes according to plan because Dragon Tin is no longer in his right mind and takes the role  so seriously he actually beats up his co-stars! A heartfel tribute to the heroes and workers of the seventh art.",
+      "genres": [
+        "Action"
+      ],
+      "rating": 0,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "96431": {
+      "id": "96431",
+      "title": "Sci-Fi High: The Movie Musical",
+      "year": 2010,
+      "description": "Mysterious forces complicate the everyday problems of high school students in this quirky, blast-from-the-past musical.",
+      "genres": [
+        "Comedy",
+        "Science Fiction",
+        "Music"
+      ],
+      "rating": 6.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:43+07:00"
+    },
+    "973698": {
+      "id": "973698",
+      "title": "Classic Albums: Frank Zappa \u0026 The Mothers Of Invention - Freak Out!",
+      "year": 2021,
+      "description": "This programme tells the story behind the conception, recording and release of this groundbreaking album. By use of interviews, musical demonstration, performance, archive footage and returning to the multi tracks with Ahmet Zappa and Joe Travers we discover how Frank Zappa and The Mothers of Invention created the album with the help of legendary African- American producer Tom Wilson.",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "rating": 8.6,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:52+07:00"
+    },
+    "973783": {
+      "id": "973783",
+      "title": "Action",
+      "year": 2014,
+      "description": "Sayantan Mukherjee’s Action stays true to its name. There’s enough dhishoom-dhishoom, enough drama, enough glam quotient… and enough action. When Raka (Barkha Sengupta), a hot, 20-something, gun-toting coal-mafia’s amorous advents are rejected by college-goer Akash (Om), she turns his life into a living hell. So, Akash, along with his family, flees Ranigunj in order to escape Raka’s wrath and joins a college in Kolkata under the alias of Rohit Roy. Here, he meets Rini (Megha Chakraborty) and romance blooms. But is Raka ready to let go off Akash so soon?",
+      "genres": [
+        "Action",
+        "Romance"
+      ],
+      "rating": 4,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:38+07:00"
+    },
+    "975419": {
+      "id": "975419",
+      "title": "Marvel",
+      "year": 1969,
+      "description": "The quintessential student film of 1969.",
+      "genres": null,
+      "rating": 6.7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "982039": {
+      "id": "982039",
+      "title": "The Marvelous Wild World of the Vegetable Garden",
+      "year": 2022,
+      "description": "This is the story of a vegetable garden, from the first seeds to the harvest. But this garden is different, because here the gardener has decided to banish pesticides and other chemicals, and to be helped only by discreet workers, the insects. As we dive into the heart of this plant kingdom, we discover thousands of tiny lives that organize themselves as in a micro-society: decomposing insects, recyclers, pollinators, the workers of the garden work to maintain a fragile balance within the vegetable garden. As the plants grow and begin to produce their first vegetables, the incredible interactions between insects and plants help protect the future harvest. But it is also their personal stories that punctuate the life of the garden. Between parades, mutual aid and attempted putsch, the story of the vegetable garden thus takes the form of a true nature tale.",
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 7.5,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:48+07:00"
+    },
+    "987400": {
+      "id": "987400",
+      "title": "Aztec Batman: Clash of Empires",
+      "year": 2025,
+      "description": "In the time of the Aztec empire, tragedy strikes Yohualli Coatl when his father is murdered by Spanish conquistadors. To warn King Moctezuma and his high priest, Yoka, of imminent danger, Yohualli escapes to Tenochtitlán. There, he trains in the temple of the bat god Tzinacan with his mentor, developing equipment and weaponry to confront the Spanish invasion and avenge his father’s death. Along the way, he encounters key figures like the fierce Jaguar Woman and the conquistador Hernán Cortés.",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 7.7,
+      "source": "TMDB",
+      "last_updated": "2026-03-31T12:51:50+07:00"
+    }
+  },
+  "genres": {
+    "Action": [
+      "973783",
+      "1298875",
+      "962971",
+      "278159",
+      "873674",
+      "69805",
+      "53310",
+      "372804",
+      "601980",
+      "779019",
+      "402075",
+      "95667",
+      "441707",
+      "414131",
+      "1437756",
+      "15018",
+      "635687",
+      "299537",
+      "609681",
+      "1634261",
+      "1627080",
+      "11",
+      "181808",
+      "140607",
+      "181812",
+      "348350",
+      "330459",
+      "1893",
+      "1228710",
+      "1895",
+      "1894",
+      "1417668",
+      "12180",
+      "268",
+      "2661",
+      "125249",
+      "987400",
+      "1297763",
+      "485942",
+      "209112",
+      "272",
+      "131185",
+      "415",
+      "364",
+      "414",
+      "324849",
+      "123025",
+      "402285",
+      "142061"
+    ],
+    "Adventure": [
+      "466686",
+      "1182730",
+      "372804",
+      "402075",
+      "414131",
+      "382190",
+      "635687",
+      "299537",
+      "609681",
+      "935766",
+      "11",
+      "181808",
+      "140607",
+      "181812",
+      "348350",
+      "161704",
+      "330459",
+      "782054",
+      "1893",
+      "1228710",
+      "1895",
+      "1894",
+      "1417668",
+      "12180",
+      "125249",
+      "987400",
+      "209112",
+      "415"
+    ],
+    "Animation": [
+      "128868",
+      "1510038",
+      "728954",
+      "942367",
+      "466686",
+      "217279",
+      "1534180",
+      "351016",
+      "818194",
+      "466610",
+      "870038",
+      "601980",
+      "432130",
+      "779019",
+      "757907",
+      "402075",
+      "713241",
+      "441707",
+      "414131",
+      "44424",
+      "713246",
+      "134053",
+      "1437756",
+      "705894",
+      "803071",
+      "1371727",
+      "1183943",
+      "382190",
+      "635687",
+      "161704",
+      "782054",
+      "12180",
+      "987400",
+      "1297763",
+      "485942",
+      "324849",
+      "123025",
+      "142061"
+    ],
+    "Comedy": [
+      "931038",
+      "1233816",
+      "1370054",
+      "128868",
+      "1510038",
+      "1360929",
+      "53168",
+      "53244",
+      "35595",
+      "378137",
+      "36565",
+      "1022459",
+      "728954",
+      "396561",
+      "15097",
+      "1571373",
+      "273566",
+      "38614",
+      "260342",
+      "625439",
+      "591360",
+      "225904",
+      "781056",
+      "1325734",
+      "624582",
+      "96431",
+      "1143210",
+      "171982",
+      "1534180",
+      "382675",
+      "1253090",
+      "466610",
+      "713241",
+      "95667",
+      "441707",
+      "44424",
+      "713246",
+      "134053",
+      "1468927",
+      "406139",
+      "1371727",
+      "1157923",
+      "282149",
+      "935766",
+      "561105",
+      "782054",
+      "2661",
+      "131185",
+      "324849",
+      "750963"
+    ],
+    "Crime": [
+      "47338",
+      "301325",
+      "1468927",
+      "15018",
+      "365435",
+      "191943",
+      "1157923",
+      "268",
+      "2661",
+      "125249",
+      "414906",
+      "272",
+      "414"
+    ],
+    "Documentary": [
+      "522360",
+      "379110",
+      "573648",
+      "1232807",
+      "273566",
+      "706892",
+      "802477",
+      "1190110",
+      "845584",
+      "1217624",
+      "326591",
+      "95758",
+      "548251",
+      "1391318",
+      "1244845",
+      "409119",
+      "1471773",
+      "789545",
+      "712948",
+      "594069",
+      "1031774",
+      "525123",
+      "982039",
+      "522640",
+      "956879",
+      "154452",
+      "1016212",
+      "750963",
+      "1595910",
+      "40690",
+      "651984",
+      "973698",
+      "82861"
+    ],
+    "Drama": [
+      "137599",
+      "1387259",
+      "1300678",
+      "1233816",
+      "1370054",
+      "1360929",
+      "53168",
+      "53244",
+      "1045810",
+      "225904",
+      "79168",
+      "426202",
+      "1583800",
+      "1276703",
+      "1325734",
+      "455587",
+      "802477",
+      "1387299",
+      "488891",
+      "1142643",
+      "26338",
+      "77412",
+      "171982",
+      "682548",
+      "204122",
+      "382675",
+      "1253090",
+      "1210510",
+      "1634261",
+      "1627080",
+      "1031185",
+      "12173",
+      "956879",
+      "272",
+      "148918",
+      "42190"
+    ],
+    "Family": [
+      "1371727",
+      "579800",
+      "382190",
+      "208816",
+      "935766",
+      "161704",
+      "782054",
+      "324849"
+    ],
+    "Fantasy": [
+      "741917",
+      "873674",
+      "713241",
+      "44424",
+      "713246",
+      "382190",
+      "282149",
+      "12173",
+      "161704",
+      "782054",
+      "268",
+      "987400",
+      "209112",
+      "364",
+      "414"
+    ],
+    "History": [
+      "282729"
+    ],
+    "Horror": [
+      "301325",
+      "28536",
+      "44493",
+      "488891",
+      "942367",
+      "53868",
+      "1217624",
+      "1070169",
+      "67183",
+      "1495716",
+      "52416",
+      "741917",
+      "873674",
+      "1142643",
+      "1182730",
+      "1143210",
+      "1012009",
+      "1273232",
+      "432130",
+      "95667",
+      "541100",
+      "406139",
+      "15018",
+      "337045",
+      "1040605",
+      "92060",
+      "161367",
+      "768334"
+    ],
+    "Music": [
+      "1142516",
+      "67183",
+      "96431",
+      "372804",
+      "1210510",
+      "1371727",
+      "92060",
+      "1031774",
+      "1601034",
+      "40690",
+      "651984",
+      "973698",
+      "82861",
+      "1137060"
+    ],
+    "Mystery": [
+      "47338",
+      "741917",
+      "402075",
+      "541100",
+      "239622",
+      "1157923",
+      "414906",
+      "123025",
+      "142061",
+      "768334"
+    ],
+    "Romance": [
+      "973783",
+      "1370054",
+      "53168",
+      "38614",
+      "225904",
+      "1276703",
+      "1325734",
+      "1232802",
+      "282729",
+      "1273232",
+      "46651",
+      "26338",
+      "77412",
+      "171982",
+      "851826",
+      "917440",
+      "1534180",
+      "307402",
+      "1429945",
+      "44424",
+      "42190"
+    ],
+    "Science Fiction": [
+      "1232802",
+      "741917",
+      "96431",
+      "466686",
+      "494133",
+      "1182730",
+      "69805",
+      "53310",
+      "1391318",
+      "372804",
+      "1244845",
+      "1143210",
+      "1012009",
+      "1273232",
+      "1300569",
+      "757907",
+      "402075",
+      "441707",
+      "414131",
+      "382190",
+      "635687",
+      "299537",
+      "609681",
+      "11",
+      "181808",
+      "140607",
+      "181812",
+      "348350",
+      "161704",
+      "330459",
+      "782054",
+      "1550364",
+      "1893",
+      "1228710",
+      "1476435",
+      "1895",
+      "1894",
+      "1417668",
+      "12180",
+      "1297763",
+      "485942",
+      "415",
+      "123025",
+      "142061"
+    ],
+    "TV Movie": [
+      "273566",
+      "47338",
+      "326591",
+      "1244845"
+    ],
+    "Thriller": [
+      "1183372",
+      "225904",
+      "301325",
+      "1452020",
+      "1495716",
+      "741917",
+      "53310",
+      "1143210",
+      "851826",
+      "1468927",
+      "15018",
+      "594069",
+      "337045",
+      "191943",
+      "92060",
+      "414906"
+    ],
+    "Western": [
+      "426777"
+    ]
+  },
+  "directors": {},
+  "years": {
+    "1905": [
+      "282149"
+    ],
+    "1912": [
+      "282729"
+    ],
+    "1920": [
+      "682548"
+    ],
+    "1921": [
+      "426777"
+    ],
+    "1930": [
+      "77412"
+    ],
+    "1932": [
+      "351016"
+    ],
+    "1943": [
+      "125249"
+    ],
+    "1953": [
+      "561105"
+    ],
+    "1960": [
+      "455587",
+      "1142311"
+    ],
+    "1962": [
+      "1534180"
+    ],
+    "1963": [
+      "28536"
+    ],
+    "1964": [
+      "845584"
+    ],
+    "1965": [
+      "625439"
+    ],
+    "1966": [
+      "2661"
+    ],
+    "1969": [
+      "488891",
+      "975419"
+    ],
+    "1972": [
+      "1183943"
+    ],
+    "1973": [
+      "53868",
+      "15018"
+    ],
+    "1974": [
+      "12173"
+    ],
+    "1976": [
+      "1378486"
+    ],
+    "1977": [
+      "11"
+    ],
+    "1979": [
+      "466686",
+      "818194",
+      "239622",
+      "443985",
+      "859496"
+    ],
+    "1980": [
+      "137599"
+    ],
+    "1983": [
+      "307402",
+      "92060"
+    ],
+    "1985": [
+      "1429945",
+      "161704"
+    ],
+    "1986": [
+      "1583800",
+      "204122"
+    ],
+    "1988": [
+      "282494"
+    ],
+    "1989": [
+      "67183",
+      "268"
+    ],
+    "1990": [
+      "402285"
+    ],
+    "1991": [
+      "1040605",
+      "131185"
+    ],
+    "1992": [
+      "1391318",
+      "208816",
+      "1159165",
+      "364"
+    ],
+    "1993": [
+      "128868"
+    ],
+    "1994": [
+      "15097"
+    ],
+    "1995": [
+      "1424835",
+      "299850",
+      "161367",
+      "414"
+    ],
+    "1996": [
+      "53310"
+    ],
+    "1997": [
+      "44424",
+      "415"
+    ],
+    "1998": [
+      "35595"
+    ],
+    "1999": [
+      "53168",
+      "26338",
+      "1893"
+    ],
+    "2000": [
+      "441707",
+      "1031185"
+    ],
+    "2001": [
+      "1571373",
+      "942367",
+      "1143210"
+    ],
+    "2002": [
+      "53244",
+      "851826",
+      "1263640",
+      "1894"
+    ],
+    "2003": [
+      "273566",
+      "44493",
+      "42190"
+    ],
+    "2004": [
+      "396561",
+      "69805",
+      "548251",
+      "382675",
+      "506706",
+      "134053",
+      "1157923",
+      "651984"
+    ],
+    "2005": [
+      "1182730",
+      "1895",
+      "272"
+    ],
+    "2006": [
+      "52416",
+      "95758",
+      "1244845",
+      "522640",
+      "82861"
+    ],
+    "2007": [
+      "47338",
+      "154452",
+      "712878",
+      "712877",
+      "712876",
+      "712874",
+      "712870"
+    ],
+    "2008": [
+      "1600699",
+      "728954",
+      "46651",
+      "713241",
+      "414131",
+      "12180",
+      "712893",
+      "712891",
+      "712887",
+      "712894",
+      "712885"
+    ],
+    "2009": [
+      "36565",
+      "406139"
+    ],
+    "2010": [
+      "1510038",
+      "38614",
+      "79168",
+      "96431",
+      "713246",
+      "337045",
+      "191943",
+      "40690"
+    ],
+    "2011": [
+      "278159",
+      "326591",
+      "217279",
+      "148918"
+    ],
+    "2012": [
+      "225904",
+      "372804",
+      "171982",
+      "402075",
+      "95667",
+      "123025"
+    ],
+    "2013": [
+      "494133",
+      "142061"
+    ],
+    "2014": [
+      "973783",
+      "379110",
+      "260342",
+      "706892",
+      "363859",
+      "803071",
+      "1210510",
+      "365435"
+    ],
+    "2015": [
+      "781056",
+      "301325",
+      "1387299",
+      "409119",
+      "466610",
+      "140607"
+    ],
+    "2016": [
+      "378137",
+      "426202",
+      "382190",
+      "330459",
+      "209112"
+    ],
+    "2017": [
+      "1142516",
+      "432130",
+      "525123",
+      "181808",
+      "324849"
+    ],
+    "2018": [
+      "522360",
+      "1045810",
+      "1300569",
+      "705894",
+      "541100",
+      "348350",
+      "485942"
+    ],
+    "2019": [
+      "591360",
+      "598237",
+      "624582",
+      "1324889",
+      "712948",
+      "601980",
+      "757907",
+      "1437756",
+      "1304838",
+      "594069",
+      "635687",
+      "299537",
+      "1175437",
+      "181812",
+      "750963"
+    ],
+    "2020": [
+      "573648",
+      "741917",
+      "779019",
+      "740701"
+    ],
+    "2021": [
+      "1070169",
+      "789545",
+      "917440",
+      "1253090",
+      "870038",
+      "1550364",
+      "1016212",
+      "768334",
+      "973698"
+    ],
+    "2022": [
+      "931038",
+      "1387259",
+      "1044490",
+      "962971",
+      "1022459",
+      "1158983",
+      "873674",
+      "1012009",
+      "982039",
+      "782054",
+      "956879",
+      "414906"
+    ],
+    "2023": [
+      "1186206",
+      "1183372",
+      "1232807",
+      "1232802",
+      "1190110",
+      "1142643",
+      "1218606",
+      "1031774",
+      "609681",
+      "1137060"
+    ],
+    "2024": [
+      "1298875",
+      "1300678",
+      "1233816",
+      "1370054",
+      "1276703",
+      "1452020",
+      "1273232",
+      "1371727"
+    ],
+    "2025": [
+      "802477",
+      "1217624",
+      "1471773",
+      "1627080",
+      "935766",
+      "1476435",
+      "1601034",
+      "987400",
+      "1297763",
+      "1595910"
+    ],
+    "2026": [
+      "1325734",
+      "1495716",
+      "1634261",
+      "1228710"
+    ],
+    "2027": [
+      "1417668"
+    ]
+  },
+  "last_updated": "2026-03-31T12:51:53.098813+07:00",
+  "total_count": 239
+}

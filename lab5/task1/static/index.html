@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>WebSocket JSON Echo</title>
+  <style>
+    body {
+      font-family: monospace;
+      max-width: 700px;
+      margin: 40px auto;
+    }
+
+    #log {
+      border: 1px solid #ccc;
+      padding: 10px;
+      height: 320px;
+      overflow-y: auto;
+      background: #f9f9f9;
+      margin-bottom: 10px;
+    }
+
+    .sent { color: blue; }
+    .received { color: green; }
+    .error { color: red; }
+    .system { color: gray; font-style: italic; }
+
+    input {
+      padding: 6px;
+      margin-right: 6px;
+    }
+
+    button {
+      padding: 6px 14px;
+    }
+  </style>
+</head>
+<body>
+  <h2>WebSocket JSON Echo</h2>
+
+  <div id="log"></div>
+
+  <input type="text" id="name" placeholder="Your name" value="Alice" style="width:120px;" />
+  <input type="text" id="msg" placeholder="Type a message..." style="width:320px;" />
+  <button onclick="send()">Send</button>
+
+  <script>
+    const logDiv = document.getElementById("log");
+    const nameInput = document.getElementById("name");
+    const msgInput = document.getElementById("msg");
+
+    function appendLog(text, cls) {
+      const div = document.createElement("div");
+      div.textContent = text;
+      div.className = cls;
+      logDiv.appendChild(div);
+      logDiv.scrollTop = logDiv.scrollHeight;
+    }
+
+    const ws = new WebSocket("ws://localhost:8080/ws");
+
+    ws.onopen = () => {
+      appendLog("Connected", "system");
+    };
+
+    ws.onmessage = (event) => {
+      const msg = JSON.parse(event.data);
+
+      if (msg.type === "error") {
+        appendLog("Error: " + msg.content, "error");
+      } else {
+        appendLog(
+          `← [${msg.type}] ${msg.sender}: ${msg.content} (${msg.timestamp})`,
+          "received"
+        );
+      }
+    };
+
+    ws.onclose = () => {
+      appendLog("Disconnected", "system");
+    };
+
+    ws.onerror = () => {
+      appendLog("WebSocket error", "error");
+    };
+
+    function send() {
+      const text = msgInput.value.trim();
+      if (!text || ws.readyState !== WebSocket.OPEN) return;
+
+      const msg = {
+        type: "chat",
+        sender: nameInput.value.trim() || "Anonymous",
+        content: text
+      };
+
+      ws.send(JSON.stringify(msg));
+      appendLog(`→ [${msg.type}] ${msg.sender}: ${msg.content}`, "sent");
+      msgInput.value = "";
+    }
+
+    msgInput.addEventListener("keypress", (e) => {
+      if (e.key === "Enter") send();
+    });
+  </script>
+</body>
+</html>

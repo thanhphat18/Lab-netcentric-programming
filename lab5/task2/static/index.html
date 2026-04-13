@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Broadcast Chat</title>
+  <style>
+    body { font-family: monospace; max-width: 700px; margin: 40px auto; }
+    #log {
+      border: 1px solid #ccc;
+      padding: 10px;
+      height: 320px;
+      overflow-y: auto;
+      background: #f9f9f9;
+      margin-bottom: 10px;
+    }
+    .sent { color: blue; }
+    .chat { color: green; }
+    .join { color: purple; font-style: italic; }
+    .leave { color: brown; font-style: italic; }
+    .error { color: red; }
+    .system { color: gray; font-style: italic; }
+    input { padding: 6px; margin-right: 6px; }
+    button { padding: 6px 14px; }
+  </style>
+</head>
+<body>
+  <h2>Broadcast Chat</h2>
+
+  <div id="log"></div>
+
+  <input type="text" id="name" placeholder="Your name" value="Alice" style="width:120px;" />
+  <button onclick="connect()">Connect</button>
+  <br><br>
+
+  <input type="text" id="msg" placeholder="Type a message..." style="width:320px;" />
+  <button onclick="send()">Send</button>
+
+  <script>
+    const logDiv = document.getElementById("log");
+    const nameInput = document.getElementById("name");
+    const msgInput = document.getElementById("msg");
+    let ws = null;
+
+    function appendLog(text, cls) {
+      const div = document.createElement("div");
+      div.textContent = text;
+      div.className = cls;
+      logDiv.appendChild(div);
+      logDiv.scrollTop = logDiv.scrollHeight;
+    }
+
+    function connect() {
+      if (ws && ws.readyState === WebSocket.OPEN) {
+        appendLog("Already connected", "system");
+        return;
+      }
+
+      const username = encodeURIComponent(nameInput.value.trim() || "Anonymous");
+      ws = new WebSocket(`ws://localhost:8080/ws?username=${username}`);
+
+      ws.onopen = () => appendLog("Connected", "system");
+
+      ws.onmessage = (e) => {
+        const msg = JSON.parse(e.data);
+
+        if (msg.type === "error") {
+          appendLog("Error: " + msg.content, "error");
+        } else if (msg.type === "join") {
+          appendLog(`+ ${msg.sender} ${msg.content}`, "join");
+        } else if (msg.type === "leave") {
+          appendLog(`- ${msg.sender} ${msg.content}`, "leave");
+        } else if (msg.type === "chat") {
+          appendLog(`← ${msg.sender}: ${msg.content} (${msg.timestamp})`, "chat");
+        } else {
+          appendLog(JSON.stringify(msg), "system");
+        }
+      };
+
+      ws.onclose = () => appendLog("Disconnected", "system");
+      ws.onerror = () => appendLog("WebSocket error", "error");
+    }
+
+    function send() {
+      const text = msgInput.value.trim();
+      if (!ws || ws.readyState !== WebSocket.OPEN || !text) return;
+
+      const msg = {
+        type: "chat",
+        sender: nameInput.value.trim() || "Anonymous",
+        content: text
+      };
+
+      ws.send(JSON.stringify(msg));
+      appendLog(`→ ${msg.sender}: ${msg.content}`, "sent");
+      msgInput.value = "";
+    }
+
+    msgInput.addEventListener("keypress", (e) => {
+      if (e.key === "Enter") send();
+    });
+  </script>
+</body>
+</html>
