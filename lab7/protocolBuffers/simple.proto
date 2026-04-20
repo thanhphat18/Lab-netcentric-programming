@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package example;
+
+// Go package option
+option go_package = "protocolBuffers/proto";
+
+// Simple message type
+message Person {
+  string name = 1;
+  int32 age = 2;
+  string email = 3;
+  repeated string hobbies = 4;  // Array/slice
+}
+
+// Message with nested type
+message Address {
+  string street = 1;
+  string city = 2;
+  string country = 3;
+  int32 zip_code = 4;
+}
+
+message PersonWithAddress {
+  Person person = 1;
+  Address address = 2;
+}
+
+// Enum type
+enum BookGenre {
+  UNKNOWN = 0;
+  FICTION = 1;
+  NONFICTION = 2;
+  SCIFI = 3;
+  FANTASY = 4;
+  MYSTERY = 5;
+}
+
+// Message using enum
+message Book {
+  int32 id = 1;
+  string title = 2;
+  string author = 3;
+  BookGenre genre = 4;
+  float price = 5;
+  bool available = 6;
+}
