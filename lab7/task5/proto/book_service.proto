@@ -1,0 +1,63 @@
+syntax = "proto3";
+
+package bookservice;
+option go_package = "task5/proto/book";
+
+message Book {
+  int32 id = 1;
+  string title = 2;
+  int32 author_id = 3;
+  string isbn = 4;
+  float price = 5;
+  int32 stock = 6;
+  int32 published_year = 7;
+}
+
+message GetBookRequest {
+  int32 id = 1;
+}
+
+message GetBookResponse {
+  Book book = 1;
+}
+
+message CreateBookRequest {
+  string title = 1;
+  int32 author_id = 2;
+  string isbn = 3;
+  float price = 4;
+  int32 stock = 5;
+  int32 published_year = 6;
+}
+
+message CreateBookResponse {
+  Book book = 1;
+}
+
+message ListBooksRequest {
+  int32 page = 1;
+  int32 page_size = 2;
+}
+
+message ListBooksResponse {
+  repeated Book books = 1;
+  int32 total = 2;
+  int32 page = 3;
+  int32 page_size = 4;
+}
+
+message GetBooksByAuthorRequest {
+  int32 author_id = 1;
+}
+
+message GetBooksByAuthorResponse {
+  repeated Book books = 1;
+  int32 count = 2;
+}
+
+service BookCatalog {
+  rpc GetBook(GetBookRequest) returns (GetBookResponse);
+  rpc CreateBook(CreateBookRequest) returns (CreateBookResponse);
+  rpc ListBooks(ListBooksRequest) returns (ListBooksResponse);
+  rpc GetBooksByAuthor(GetBooksByAuthorRequest) returns (GetBooksByAuthorResponse);
+}
